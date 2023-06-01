@@ -1,0 +1,11 @@
+uuid: d6752ef4-3fbe-4f19-a3dd-91f682ec0381
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.athony
+id: taxonomy_term.athony
+target_entity_type_id: taxonomy_term
+target_bundle: athony
+default_langcode: site_default
+language_alterable: false
