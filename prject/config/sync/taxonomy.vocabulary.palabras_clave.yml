@@ -1,0 +1,8 @@
+uuid: 6bf005b1-eced-4158-97ad-c1ff564eecc0
+langcode: und
+status: true
+dependencies: {  }
+name: 'Palabras Clave'
+vid: palabras_clave
+description: 'Palabras clave para identificar de forma más eficiente los posts'
+weight: -9
