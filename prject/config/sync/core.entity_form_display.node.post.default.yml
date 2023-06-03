@@ -5,12 +5,14 @@ dependencies:
   config:
     - field.field.node.post.body
     - field.field.node.post.field_category
+    - field.field.node.post.field_comentarios
     - field.field.node.post.field_image
     - field.field.node.post.field_keywords
     - field.field.node.post.field_re
     - image.style.thumbnail
     - node.type.post
   module:
+    - comment
     - field_layout
     - image
     - layout_discovery
@@ -52,6 +54,12 @@ content:
       match_limit: 10
       size: 60
       placeholder: ''
+    third_party_settings: {  }
+  field_comentarios:
+    type: comment_default
+    weight: 127
+    region: content
+    settings: {  }
     third_party_settings: {  }
   field_image:
     type: image_image
