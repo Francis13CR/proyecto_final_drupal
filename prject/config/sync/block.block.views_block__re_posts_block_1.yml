@@ -1,0 +1,32 @@
+uuid: 44e76323-5ddd-4945-ac38-278634f8ac5e
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.re_posts
+  module:
+    - node
+    - views
+  theme:
+    - olivero
+id: views_block__re_posts_block_1
+theme: olivero
+region: sidebar
+weight: 0
+provider: null
+plugin: 'views_block:re_posts-block_1'
+settings:
+  id: 'views_block:re_posts-block_1'
+  label: ''
+  label_display: visible
+  provider: views
+  views_label: ''
+  items_per_page: none
+visibility:
+  'entity_bundle:node':
+    id: 'entity_bundle:node'
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'
+    bundles:
+      post: post

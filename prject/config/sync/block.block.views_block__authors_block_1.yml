@@ -1,0 +1,25 @@
+uuid: fe654438-33e7-4008-b94a-830432af92b7
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.authors
+  module:
+    - views
+  theme:
+    - olivero
+id: views_block__authors_block_1
+theme: olivero
+region: sidebar
+weight: 0
+provider: null
+plugin: 'views_block:authors-block_1'
+settings:
+  id: 'views_block:authors-block_1'
+  label: ''
+  label_display: visible
+  provider: views
+  context_mapping: {  }
+  views_label: ''
+  items_per_page: none
+visibility: {  }
