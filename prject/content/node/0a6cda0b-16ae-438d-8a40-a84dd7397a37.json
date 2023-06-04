@@ -1,48 +1,42 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/node\/2?_format=hal_json"
+            "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/node\/1?_format=hal_json"
         },
         "type": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/rest\/type\/node\/post"
+            "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/rest\/type\/node\/post"
         },
-        "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/rest\/relation\/node\/post\/revision_uid": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/rest\/relation\/node\/post\/revision_uid": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/user\/0?_format=hal_json"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/rest\/relation\/node\/post\/uid": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/rest\/relation\/node\/post\/uid": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/user\/1?_format=hal_json",
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/user\/0?_format=hal_json",
                 "lang": "en"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/rest\/relation\/node\/post\/field_category": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/rest\/relation\/node\/post\/field_category": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/taxonomy\/term\/4?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/taxonomy\/term\/1?_format=hal_json"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/rest\/relation\/node\/post\/field_image": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/rest\/relation\/node\/post\/field_keywords": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/sites\/default\/files\/2023-06\/Untitled-1.jpg",
-                "lang": "en"
-            }
-        ],
-        "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/rest\/relation\/node\/post\/field_keywords": [
-            {
-                "href": "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/taxonomy\/term\/23?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/taxonomy\/term\/2?_format=hal_json"
             },
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/taxonomy\/term\/10?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/taxonomy\/term\/3?_format=hal_json"
             },
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/taxonomy\/term\/19?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/taxonomy\/term\/4?_format=hal_json"
             }
         ]
     },
     "nid": [
         {
-            "value": 2
+            "value": 1
         }
     ],
     "uuid": [
@@ -68,49 +62,49 @@
         }
     ],
     "_embedded": {
-        "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/rest\/relation\/node\/post\/revision_uid": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/rest\/relation\/node\/post\/revision_uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/user\/0?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/rest\/type\/user\/user"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "5c4d63a1-594c-4a87-b160-e2a34337140c"
+                        "value": "1954a88a-12f2-44c6-bb86-9457fcc8855a"
                     }
                 ]
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/rest\/relation\/node\/post\/uid": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/rest\/relation\/node\/post\/uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/user\/0?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/rest\/type\/user\/user"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "5c4d63a1-594c-4a87-b160-e2a34337140c"
+                        "value": "1954a88a-12f2-44c6-bb86-9457fcc8855a"
                     }
                 ],
                 "lang": "en"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/rest\/relation\/node\/post\/field_category": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/rest\/relation\/node\/post\/field_category": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/taxonomy\/term\/4?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/taxonomy\/term\/1?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
                     }
                 },
                 "uuid": [
@@ -120,32 +114,14 @@
                 ]
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/rest\/relation\/node\/post\/field_image": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/rest\/relation\/node\/post\/field_keywords": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/sites\/default\/files\/2023-06\/Untitled-1.jpg"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/taxonomy\/term\/2?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/rest\/type\/file\/file"
-                    }
-                },
-                "uuid": [
-                    {
-                        "value": "e601b843-81df-4bd1-8a55-31760d744644"
-                    }
-                ],
-                "lang": "en"
-            }
-        ],
-        "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/rest\/relation\/node\/post\/field_keywords": [
-            {
-                "_links": {
-                    "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/taxonomy\/term\/23?_format=hal_json"
-                    },
-                    "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
                     }
                 },
                 "uuid": [
@@ -157,10 +133,10 @@
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/taxonomy\/term\/10?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/taxonomy\/term\/3?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
                     }
                 },
                 "uuid": [
@@ -172,10 +148,10 @@
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/taxonomy\/term\/19?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/taxonomy\/term\/4?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-4uhy6i1ub6d.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
                     }
                 },
                 "uuid": [
@@ -207,7 +183,7 @@
     ],
     "changed": [
         {
-            "value": "2023-06-03T22:36:54+00:00",
+            "value": "2023-06-04T20:11:34+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
@@ -259,7 +235,7 @@
             "cid": 0,
             "last_comment_timestamp": 1685831814,
             "last_comment_name": null,
-            "last_comment_uid": 1,
+            "last_comment_uid": 0,
             "comment_count": 0
         }
     ],
