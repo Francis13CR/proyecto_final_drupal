@@ -1,17 +1,17 @@
-uuid: 23c825a5-f8f8-4abd-a9ef-4eb69706b933
+uuid: f5f8c7cf-0fd9-4d8f-b586-09271055031f
 langcode: en
 status: true
 dependencies:
   config:
-    - field.storage.node.field_category
-    - node.type.post
+    - field.storage.node.field_video_category
+    - node.type.video
     - taxonomy.vocabulary.categoria
-id: node.post.field_category
-field_name: field_category
+id: node.video.field_video_category
+field_name: field_video_category
 entity_type: node
-bundle: post
-label: Category
-description: 'category to which the publication belongs'
+bundle: video
+label: 'Video category'
+description: ''
 required: true
 translatable: false
 default_value: {  }

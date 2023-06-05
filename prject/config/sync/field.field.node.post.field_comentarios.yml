@@ -11,7 +11,7 @@ id: node.post.field_comentarios
 field_name: field_comentarios
 entity_type: node
 bundle: post
-label: Comentarios
+label: Comments
 description: ''
 required: false
 translatable: false

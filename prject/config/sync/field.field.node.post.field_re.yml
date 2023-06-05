@@ -11,7 +11,7 @@ id: node.post.field_re
 field_name: field_re
 entity_type: node
 bundle: post
-label: 'related links'
+label: 'Related links'
 description: 'links referring to support material such as documentation or videos.'
 required: false
 translatable: false

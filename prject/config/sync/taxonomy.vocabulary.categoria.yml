@@ -2,7 +2,7 @@ uuid: 53eec2b0-d25a-4278-b681-bf3889751d53
 langcode: und
 status: true
 dependencies: {  }
-name: Categoría
+name: Category
 vid: categoria
-description: 'Categorías de los Post'
+description: 'Category for Posts'
 weight: -10
