@@ -1,0 +1,100 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-francis13cr-proyectofin-wbwel37qqcg.ws-us98.gitpod.io\/block\/1?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-francis13cr-proyectofin-wbwel37qqcg.ws-us98.gitpod.io\/rest\/type\/block_content\/basic"
+        },
+        "https:\/\/8080-francis13cr-proyectofin-wbwel37qqcg.ws-us98.gitpod.io\/rest\/relation\/block_content\/basic\/revision_user": [
+            {
+                "href": "https:\/\/8080-francis13cr-proyectofin-wbwel37qqcg.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 1
+        }
+    ],
+    "uuid": [
+        {
+            "value": "84563a5f-2699-47aa-b30e-2f7895b965bf"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "basic"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-06-04T23:45:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-francis13cr-proyectofin-wbwel37qqcg.ws-us98.gitpod.io\/rest\/relation\/block_content\/basic\/revision_user": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-wbwel37qqcg.ws-us98.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-wbwel37qqcg.ws-us98.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "cb23f33d-d0a3-40d9-8b93-62583abf9056"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "info": [
+        {
+            "value": "Front Image",
+            "lang": "en"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-04T23:45:45+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "reusable": [
+        {
+            "value": true
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<img data-entity-uuid=\"bae8ebcc-70a8-4178-b9eb-d728be2ced92\" data-entity-type=\"file\" src=\"\/sites\/default\/files\/inline-images\/backiee-124502.jpg\">",
+            "format": "basic_html",
+            "processed": "<img data-entity-uuid=\"bae8ebcc-70a8-4178-b9eb-d728be2ced92\" data-entity-type=\"file\" src=\"\/sites\/default\/files\/inline-images\/backiee-124502.jpg\" width=\"5120\" height=\"2880\" loading=\"lazy\" \/>",
+            "summary": "",
+            "lang": "en"
+        }
+    ]
+}

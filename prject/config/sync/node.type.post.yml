@@ -15,4 +15,4 @@ description: 'post type content. This content contains the title, body, image, c
 help: ''
 new_revision: true
 preview_mode: 1
-display_submitted: true
+display_submitted: false
