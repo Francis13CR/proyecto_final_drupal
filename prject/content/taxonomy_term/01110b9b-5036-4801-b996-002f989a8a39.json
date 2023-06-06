@@ -1,18 +1,18 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-wbwel37qqcg.ws-us98.gitpod.io\/taxonomy\/term\/9?_format=hal_json"
+            "href": "https:\/\/8080-francis13cr-proyectofin-nx161f8fkla.ws-us98.gitpod.io\/taxonomy\/term\/17?_format=hal_json"
         },
         "type": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-wbwel37qqcg.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
+            "href": "https:\/\/8080-francis13cr-proyectofin-nx161f8fkla.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
         },
-        "https:\/\/8080-francis13cr-proyectofin-wbwel37qqcg.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/categoria\/parent": [
+        "https:\/\/8080-francis13cr-proyectofin-nx161f8fkla.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/categoria\/parent": [
             null
         ]
     },
     "tid": [
         {
-            "value": 9
+            "value": 17
         }
     ],
     "uuid": [
@@ -45,7 +45,7 @@
     ],
     "name": [
         {
-            "value": "Migraci\u00f3n de Datos",
+            "value": "Data Migration",
             "lang": "en"
         }
     ],
@@ -55,13 +55,13 @@
         }
     ],
     "_embedded": {
-        "https:\/\/8080-francis13cr-proyectofin-wbwel37qqcg.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/categoria\/parent": [
+        "https:\/\/8080-francis13cr-proyectofin-nx161f8fkla.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/categoria\/parent": [
             null
         ]
     },
     "changed": [
         {
-            "value": "2023-06-01T23:13:55+00:00",
+            "value": "2023-06-06T01:26:54+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }

@@ -1,18 +1,18 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-wbwel37qqcg.ws-us98.gitpod.io\/taxonomy\/term\/26?_format=hal_json"
+            "href": "https:\/\/8080-francis13cr-proyectofin-nx161f8fkla.ws-us98.gitpod.io\/taxonomy\/term\/29?_format=hal_json"
         },
         "type": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-wbwel37qqcg.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
+            "href": "https:\/\/8080-francis13cr-proyectofin-nx161f8fkla.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
         },
-        "https:\/\/8080-francis13cr-proyectofin-wbwel37qqcg.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/palabras_clave\/parent": [
+        "https:\/\/8080-francis13cr-proyectofin-nx161f8fkla.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/palabras_clave\/parent": [
             null
         ]
     },
     "tid": [
         {
-            "value": 26
+            "value": 29
         }
     ],
     "uuid": [
@@ -51,17 +51,17 @@
     ],
     "weight": [
         {
-            "value": 0
+            "value": 1
         }
     ],
     "_embedded": {
-        "https:\/\/8080-francis13cr-proyectofin-wbwel37qqcg.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/palabras_clave\/parent": [
+        "https:\/\/8080-francis13cr-proyectofin-nx161f8fkla.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/palabras_clave\/parent": [
             null
         ]
     },
     "changed": [
         {
-            "value": "2023-06-01T23:09:38+00:00",
+            "value": "2023-06-06T01:31:37+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
