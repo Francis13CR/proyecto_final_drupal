@@ -1,16 +1,11 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-wbwel37qqcg.ws-us98.gitpod.io\/block\/1?_format=hal_json"
+            "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/block\/1?_format=hal_json"
         },
         "type": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-wbwel37qqcg.ws-us98.gitpod.io\/rest\/type\/block_content\/basic"
-        },
-        "https:\/\/8080-francis13cr-proyectofin-wbwel37qqcg.ws-us98.gitpod.io\/rest\/relation\/block_content\/basic\/revision_user": [
-            {
-                "href": "https:\/\/8080-francis13cr-proyectofin-wbwel37qqcg.ws-us98.gitpod.io\/user\/1?_format=hal_json"
-            }
-        ]
+            "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/type\/block_content\/basic"
+        }
     },
     "id": [
         {
@@ -39,25 +34,6 @@
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
-    "_embedded": {
-        "https:\/\/8080-francis13cr-proyectofin-wbwel37qqcg.ws-us98.gitpod.io\/rest\/relation\/block_content\/basic\/revision_user": [
-            {
-                "_links": {
-                    "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-wbwel37qqcg.ws-us98.gitpod.io\/user\/1?_format=hal_json"
-                    },
-                    "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-wbwel37qqcg.ws-us98.gitpod.io\/rest\/type\/user\/user"
-                    }
-                },
-                "uuid": [
-                    {
-                        "value": "cb23f33d-d0a3-40d9-8b93-62583abf9056"
-                    }
-                ]
-            }
-        ]
-    },
     "status": [
         {
             "value": true,
@@ -88,11 +64,17 @@
             "lang": "en"
         }
     ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
     "body": [
         {
             "value": "<img data-entity-uuid=\"bae8ebcc-70a8-4178-b9eb-d728be2ced92\" data-entity-type=\"file\" src=\"\/sites\/default\/files\/inline-images\/backiee-124502.jpg\">",
             "format": "basic_html",
-            "processed": "<img data-entity-uuid=\"bae8ebcc-70a8-4178-b9eb-d728be2ced92\" data-entity-type=\"file\" src=\"\/sites\/default\/files\/inline-images\/backiee-124502.jpg\" width=\"5120\" height=\"2880\" loading=\"lazy\" \/>",
+            "processed": "<img data-entity-uuid=\"bae8ebcc-70a8-4178-b9eb-d728be2ced92\" data-entity-type=\"file\" src=\"\/sites\/default\/files\/inline-images\/backiee-124502.jpg\" alt=\"Image removed.\" title=\"This image has been removed. For security reasons, only images from the local domain are allowed.\" height=\"16\" width=\"16\" class=\"filter-image-invalid\" \/>",
             "summary": "",
             "lang": "en"
         }

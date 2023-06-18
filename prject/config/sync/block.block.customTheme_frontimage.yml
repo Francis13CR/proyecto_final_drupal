@@ -1,0 +1,30 @@
+uuid: c1079ce1-b942-4247-b334-f0dacb5e1b0b
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:84563a5f-2699-47aa-b30e-2f7895b965bf'
+  module:
+    - block_content
+    - system
+  theme:
+    - customTheme
+id: customTheme_frontimage
+theme: customTheme
+region: hero
+weight: -9
+provider: null
+plugin: 'block_content:84563a5f-2699-47aa-b30e-2f7895b965bf'
+settings:
+  id: 'block_content:84563a5f-2699-47aa-b30e-2f7895b965bf'
+  label: 'Front Image'
+  label_display: '0'
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: '<front>'
