@@ -1,0 +1,22 @@
+name: customTheme
+type: theme
+'base theme': olivero
+starterkit: true
+version: VERSION
+libraries:
+  - customTheme/base
+  - customTheme/messages
+  - core/normalize
+libraries-extend:
+  user/drupal.user:
+    - customTheme/user
+  core/drupal.dropbutton:
+    - customTheme/dropbutton
+  core/drupal.dialog:
+    - customTheme/dialog
+  file/drupal.file:
+    - customTheme/file
+  core/drupal.progress:
+    - customTheme/progress
+core_version_requirement: ^10
+generator: 'starterkit_theme:10.0.9'
