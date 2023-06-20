@@ -1,0 +1,8 @@
+uuid: 6bf005b1-eced-4158-97ad-c1ff564eecc0
+langcode: und
+status: true
+dependencies: {  }
+name: Keywords
+vid: palabras_clave
+description: 'Keywords to more efficiently identify posts'
+weight: -9

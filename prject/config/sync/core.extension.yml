@@ -57,14 +57,17 @@ module:
   text: 0
   toolbar: 0
   tour: 0
+  ui_patterns: 0
+  ui_patterns_library: 0
   update: 0
   user: 0
+  video_embed_field: 0
   views_ui: 0
   content_translation: 10
   views: 10
   paragraphs: 11
-  standard: 1000
 theme:
   olivero: 0
   claro: 0
-profile: standard
+  customTheme: 0
+profile: minimal

@@ -1,0 +1,63 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-francis13cr-proyectofin-wbwel37qqcg.ws-us98.gitpod.io\/sites\/default\/files\/2023-06\/R.png"
+        },
+        "type": {
+            "href": "https:\/\/8080-francis13cr-proyectofin-wbwel37qqcg.ws-us98.gitpod.io\/rest\/type\/file\/file"
+        }
+    },
+    "fid": [
+        {
+            "value": 3
+        }
+    ],
+    "uuid": [
+        {
+            "value": "0e83e86c-2d02-44b2-bd6f-8ce5a4332f4b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "filename": [
+        {
+            "value": "R.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2023-06\/R.png",
+            "url": "\/sites\/default\/files\/2023-06\/R.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 14729
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-06-04T21:36:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-04T21:36:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

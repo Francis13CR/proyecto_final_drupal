@@ -1,0 +1,29 @@
+uuid: 3d6e5832-1fcf-4047-aced-de50f93ce629
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_keywords
+    - node.type.post
+    - taxonomy.vocabulary.palabras_clave
+id: node.post.field_keywords
+field_name: field_keywords
+entity_type: node
+bundle: post
+label: keywords
+description: 'related keywords for the post, for example "export", "import", "settings" etc.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      palabras_clave: palabras_clave
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

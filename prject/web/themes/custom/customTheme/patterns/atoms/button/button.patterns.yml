@@ -1,0 +1,24 @@
+button: 
+  label: 'Button'
+  description: 'Button'
+  fields: 
+    text: 
+      type: string
+      label: button text
+      preview: 'more'
+    url: 
+      type: url
+      label: URL
+      preview: https://google.com
+  libraries:
+    -
+      button:
+        css:
+          component:
+            css/style.css: {}
+        # asi se carga el bostrap dentro de los atoms/moleculars,
+          theme:
+            ../../../libraries/bootstrap/css/bootstrap.min.css: {}
+        js:
+          ../../../libraries/bootstrap/js/bootstrap.min.js: {}
+      

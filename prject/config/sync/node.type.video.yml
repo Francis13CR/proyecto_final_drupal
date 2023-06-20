@@ -1,0 +1,17 @@
+uuid: eea55f0d-5911-4322-ba22-2cf8b79915f0
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: 'Video galery'
+type: video
+description: 'This content type is for video posts'
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: false

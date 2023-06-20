@@ -1,0 +1,33 @@
+uuid: 5017832b-57c9-4d20-90df-d2ca43f05f6e
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.links
+  module:
+    - node
+    - views
+  theme:
+    - customTheme
+id: customTheme_views_block__links_block_1
+theme: customTheme
+region: sidebar
+weight: 0
+provider: null
+plugin: 'views_block:links-block_1'
+settings:
+  id: 'views_block:links-block_1'
+  label: ''
+  label_display: visible
+  provider: views
+  context_mapping: {  }
+  views_label: ''
+  items_per_page: none
+visibility:
+  'entity_bundle:node':
+    id: 'entity_bundle:node'
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'
+    bundles:
+      post: post

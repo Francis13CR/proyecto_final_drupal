@@ -1,0 +1,30 @@
+uuid: c3220eb8-3d9f-4030-b7a5-d0324bcae346
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:84563a5f-2699-47aa-b30e-2f7895b965bf'
+  module:
+    - block_content
+    - system
+  theme:
+    - olivero
+id: frontimage
+theme: olivero
+region: hero
+weight: -9
+provider: null
+plugin: 'block_content:84563a5f-2699-47aa-b30e-2f7895b965bf'
+settings:
+  id: 'block_content:84563a5f-2699-47aa-b30e-2f7895b965bf'
+  label: 'Front Image'
+  label_display: '0'
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: '<front>'
