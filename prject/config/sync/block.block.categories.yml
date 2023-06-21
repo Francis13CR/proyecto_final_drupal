@@ -1,0 +1,33 @@
+uuid: 1c5f46d6-c7a5-4530-9bd3-f73b40e99655
+langcode: en
+status: false
+dependencies:
+  content:
+    - 'block_content:basic:bef7788a-69d4-4fc9-a118-478a9145af87'
+  module:
+    - block_content
+    - taxonomy
+  theme:
+    - olivero
+id: categories
+theme: olivero
+region: sidebar
+weight: 0
+provider: null
+plugin: 'block_content:bef7788a-69d4-4fc9-a118-478a9145af87'
+settings:
+  id: 'block_content:bef7788a-69d4-4fc9-a118-478a9145af87'
+  label: Categories
+  label_display: visible
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility:
+  'entity_bundle:taxonomy_term':
+    id: 'entity_bundle:taxonomy_term'
+    negate: false
+    context_mapping:
+      taxonomy_term: '@taxonomy_term.taxonomy_term_route_context:taxonomy_term'
+    bundles:
+      categoria: categoria
