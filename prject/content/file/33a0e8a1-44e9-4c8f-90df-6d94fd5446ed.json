@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/sites\/default\/files\/2023-06\/R.png"
+            "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/sites\/default\/files\/2023-06\/ipad.png"
         },
         "type": {
             "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/type\/file\/file"
@@ -14,12 +14,12 @@
     },
     "fid": [
         {
-            "value": 3
+            "value": 17
         }
     ],
     "uuid": [
         {
-            "value": "0e83e86c-2d02-44b2-bd6f-8ce5a4332f4b"
+            "value": "33a0e8a1-44e9-4c8f-90df-6d94fd5446ed"
         }
     ],
     "langcode": [
@@ -48,13 +48,13 @@
     },
     "filename": [
         {
-            "value": "R.png"
+            "value": "ipad.png"
         }
     ],
     "uri": [
         {
-            "value": "public:\/\/2023-06\/R.png",
-            "url": "\/sites\/default\/files\/2023-06\/R.png"
+            "value": "public:\/\/2023-06\/ipad.png",
+            "url": "\/sites\/default\/files\/2023-06\/ipad.png"
         }
     ],
     "filemime": [
@@ -64,7 +64,7 @@
     ],
     "filesize": [
         {
-            "value": 14729
+            "value": 11765
         }
     ],
     "status": [
@@ -74,13 +74,13 @@
     ],
     "created": [
         {
-            "value": "2023-06-04T21:36:24+00:00",
+            "value": "2023-06-20T20:57:20+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2023-06-04T21:36:45+00:00",
+            "value": "2023-06-20T20:57:34+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]
