@@ -1,0 +1,19 @@
+text:
+  label: 'Text'
+  description: 'Text component'
+  fields:
+    text:
+      type: string
+      label: Text
+      description: Text on card.
+      preview: 'Esto es un desastre' 
+  libraries:
+    -
+      text:
+        css:
+          component:
+            css/styles.css: {}
+          theme:
+            ../../../libraries/bootstrap/css/bootstrap.min.css: {}
+        js:
+          ../../../libraries/bootstrap/js/bootstrap.min.js: {}
