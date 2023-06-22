@@ -1,0 +1,20 @@
+<div class="card border m-1 p-1  border-primary">
+  <div class="card-content m-1 p-1 row ">
+    <div class="ps-0 h-100 col-md-4">
+      {{ pattern('image',{
+          alt: 'efectos',
+          src: image
+      })}}
+    </div>
+    <div class="col-md-8">
+      {{ pattern('text',{
+          text: text,
+          title: title
+      })}}
+      {{ pattern('button',{
+          text: 'more...',
+          url: url
+      })}}
+    </div>
+  </div>
+</div>
