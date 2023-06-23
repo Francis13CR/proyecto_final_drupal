@@ -2,18 +2,22 @@ card:
   label: 'card'
   description: 'card'
   fields: 
-    image: 
-      type: image
-      label: url for atom image
+    image_url: 
+      type: url
+      label: URL for the atom image
       preview: 'https://th.bing.com/th/id/OIP.gMEKqZv-AanI3YYpoFdofQHaFj?pid=ImgDet&rs=1'
+    alt_image:
+      type: string
+      label: Alt Text  for the atom image
+      preview: "image"
     text: 
       type: string
       label: text for atom text
-      preview: 'https://google.com'
+      preview: 'the water is important'
     title: 
       type: string
       label: title text for atom text
-      preview: 'titlo'  
+      preview: 'Title'  
     url: 
       type: url
       label: url for atom button

@@ -1,12 +1,12 @@
 <div class="card  m-1 p-1  ">
   <div class="card-content m-1 p-1 row ">
-    <div class="ps-0 h-100 col-md-4">
+    <div class="col-md-4 d-flex align-items-center">
       {{ pattern('image',{
-          alt: 'efectos',
-          src: image
+          alt: alt_image,
+          src: image_url
       })}}
     </div>
-    <div class="col-md-8">
+    <div class="col-md-8 text-card text-justify">
       {{ pattern('text',{
           text: text,
           title: title
