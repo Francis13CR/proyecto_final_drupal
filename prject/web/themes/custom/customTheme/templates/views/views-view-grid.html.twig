@@ -68,15 +68,24 @@
             {%
               set content = column.content['#row']._entity.body[0].value
             %}
-            {# mostrar solo las primeras 20 palabras #}
-            {% set truncatedContent = content|split(' ')|slice(0, 20)|join(' ') %}
-            {# {{kint(column.content['#row']._entity.field_image[0].height)}} #}
-            {{ pattern('card',{
-                 title: column.content['#row']._entity.title[0].value,
-                 text: truncatedContent | striptags,
-                 image : file_url(column.content['#row']._entity.field_image.entity.uri.value),
-                 url: entityUrl
-            })}}
+            {# obtener la pagina actual #}
+            {%
+              set currentPage = path('<current>')
+            %}
+            {% if currentPage == '/node' or currentPage == '/posts' %}
+            
+              {# mostrar solo las primeras 20 palabras #}
+              {% set truncatedContent = content|split(' ')|slice(0, 20)|join(' ') %}
+              {# {{kint(column.content['#row']._entity.field_image[0].height)}} #}
+              {{ pattern('card',{
+                  title: column.content['#row']._entity.title[0].value,
+                  text: truncatedContent | striptags,
+                  image : file_url(column.content['#row']._entity.field_image.entity.uri.value),
+                  url: entityUrl
+              })}}
+            {% else %}
+               {{- column.content -}}
+            {% endif %}    
           </div>
         {% endfor %}
       </div>
