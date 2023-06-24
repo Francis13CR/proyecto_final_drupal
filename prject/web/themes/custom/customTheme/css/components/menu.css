@@ -32,3 +32,9 @@ ul.menu {
 ul.menu a.is-active {
   color: #000;
 }
+
+.site-header__inner__container, .header-nav {
+  background-color: #1b9ae4 !important;
+}
+
+

@@ -54,21 +54,20 @@
 
         {# Gets fixed by JavaScript at wide widths. #}
         <div class="site-header__fixable" data-drupal-selector="site-header-fixable">
-          <div class="site-header__initial">
-            <button class="sticky-header-toggle" data-drupal-selector="sticky-header-toggle" role="switch" aria-controls="site-header__inner" aria-label="{{ 'Sticky header'|t }}" aria-checked="false">
-              <span class="sticky-header-toggle__icon">
-                <span></span>
-                <span></span>
-                <span></span>
-              </span>
-            </button>
-          </div>
+
 
           {# Needs to extend full width so box shadow will also extend. #}
           <div id="site-header__inner" class="site-header__inner" data-drupal-selector="site-header-inner">
             <div class="container site-header__inner__container">
 
               {{ page.header }}
+              
+{# 
+              {% if page.primary_menu %}
+              {% for item in page.primary_menu %}
+                {{kint(item)}}
+              {% endfor %}
+              {% endif %} #}
 
               {% if page.primary_menu or page.secondary_menu %}
                 <div class="mobile-buttons" data-drupal-selector="mobile-buttons">
@@ -88,6 +87,9 @@
         </div>
       </header>
     {% endif %}
+    {# {{ pattern('nav',{
+
+      })}} #}
 
     <div id="main-wrapper" class="layout-main-wrapper layout-container">
       <div id="main" class="layout-main">
@@ -115,9 +117,6 @@
             {% endif %}
             {{ page.content_below }}
           </div>
-        </div>
-        <div class="social-bar">
-          {{ page.social }}
         </div>
       </div>
     </div>

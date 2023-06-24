@@ -12,6 +12,10 @@ text:
       label: title text
       description: title on card.
       preview: 'Marcos se ha marchado' 
+    url: 
+      type: url
+      label: URL
+      preview: https://google.com
   libraries:
     -
       text:

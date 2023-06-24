@@ -1,6 +1,8 @@
 base:
   version: VERSION
   css:
+    layout:
+      css/layout/layout.css: {}
     component:
       css/components/action-links.css:
         weight: -10
