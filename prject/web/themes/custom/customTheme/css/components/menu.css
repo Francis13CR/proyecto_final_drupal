@@ -3,6 +3,18 @@
  * Visual styles for menu.
  */
 
+ .primary-nav__menu-link {
+  color: white !important;
+ }
+
+ .secondary-nav__menu-link {
+  color: white !important;
+ }
+
+ .block-search-wide__button svg {
+  color: white !important;
+ }
+
 ul.menu {
   margin-left: 1em; /* LTR */
   padding: 0;
@@ -30,7 +42,7 @@ ul.menu {
   padding-top: 0.2em;
 }
 ul.menu a.is-active {
-  color: #000;
+  color: white;
 }
 
 .site-header__inner__container, .header-nav {
