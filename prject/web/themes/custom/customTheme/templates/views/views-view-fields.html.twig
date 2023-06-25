@@ -31,9 +31,13 @@
  * @ingroup themeable
  */
 #}
+
+{{ pattern('text',{
+    text: item.content,
+    title: ''
+})}}
 {% for field in fields -%}
   {{ field.separator }}
-
   {%- if field.wrapper_element -%}
     <{{ field.wrapper_element }}{{ field.wrapper_attributes }}>
   {%- endif %}
@@ -53,4 +57,5 @@
     </{{ field.wrapper_element }}>
   {%- endif %}
 {%- endfor %}
+
 

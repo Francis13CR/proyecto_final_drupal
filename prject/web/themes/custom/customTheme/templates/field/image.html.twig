@@ -10,10 +10,10 @@
  * @see template_preprocess_image()
  */
 #}
-{%
+{#%
 set classes = [
   'rounded'
 ]
-%}
+%#}
 
-<img {{ attributes.addClass(classes) }} />
+<img {{ attributes.addClass('rounded') }} />
