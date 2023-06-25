@@ -41,12 +41,20 @@ ul.menu {
   margin: 0;
   padding-top: 0.2em;
 }
-ul.menu a.is-active {
+ul.menu, a.is-active {
   color: white;
 }
 
-.site-header__inner__container, .header-nav {
+.site-header__inner__container, .header-nav, .site-header__inner {
   background-color: #1b9ae4 !important;
 }
 
-
+.mobile-nav-button__icon {
+  border-top: solid 3px white !important;
+}
+.mobile-nav-button__icon::after {
+  border-top: solid 3px white !important;
+}
+.mobile-nav-button__icon::before {
+  border-top: solid 3px white !important;
+}

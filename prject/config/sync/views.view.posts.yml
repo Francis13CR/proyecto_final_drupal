@@ -499,7 +499,7 @@ display:
           replica: false
           query_tags: {  }
       relationships: {  }
-      use_more: true
+      use_more: false
       use_more_always: true
       use_more_text: 'Ver Más'
       header: {  }
