@@ -3,6 +3,7 @@ base:
   css:
     layout:
       css/layout/layout.css: {}
+      css/layout/layout-footer.css: {}
     component:
       css/components/action-links.css:
         weight: -10
@@ -17,6 +18,8 @@ base:
       css/components/exposed-filters.css:
         weight: -10
       css/components/field.css:
+        weight: -10
+      css/components/footer.css:
         weight: -10
       css/components/form.css:
         weight: -10
