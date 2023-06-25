@@ -15,4 +15,9 @@
  * @see template_preprocess_image_style()
  */
 #}
-{{ image }}
+{# {{kint(file_url(image['#uri']))}} #}
+{{ pattern('image',{
+    alt: image['#alt'],
+    src: file_url(image['#uri'])
+})}}
+
