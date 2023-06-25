@@ -12,7 +12,8 @@
 #}
 {%
 set classes = [
-  style_name ? 'image-style-' ~ style_name|clean_class,
+  'rounded'
 ]
 %}
-<img{{ attributes.addClass(classes) }} />
+
+<img {{ attributes.addClass(classes) }} />
