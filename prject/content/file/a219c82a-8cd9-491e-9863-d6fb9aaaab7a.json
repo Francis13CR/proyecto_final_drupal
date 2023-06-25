@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/sites\/default\/files\/inline-images\/Untitled.jpg"
+            "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/sites\/default\/files\/inline-images\/drupal-banner2.jpg"
         },
         "type": {
             "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/type\/file\/file"
@@ -14,12 +14,12 @@
     },
     "fid": [
         {
-            "value": 16
+            "value": 37
         }
     ],
     "uuid": [
         {
-            "value": "47441f04-ed0d-474a-9353-8aa04c5db0ae"
+            "value": "a219c82a-8cd9-491e-9863-d6fb9aaaab7a"
         }
     ],
     "langcode": [
@@ -48,13 +48,13 @@
     },
     "filename": [
         {
-            "value": "Untitled.jpg"
+            "value": "drupal-banner2.jpg"
         }
     ],
     "uri": [
         {
-            "value": "public:\/\/inline-images\/Untitled.jpg",
-            "url": "\/sites\/default\/files\/inline-images\/Untitled.jpg"
+            "value": "public:\/\/inline-images\/drupal-banner2.jpg",
+            "url": "\/sites\/default\/files\/inline-images\/drupal-banner2.jpg"
         }
     ],
     "filemime": [
@@ -64,7 +64,7 @@
     ],
     "filesize": [
         {
-            "value": 39701
+            "value": 99682
         }
     ],
     "status": [
@@ -74,13 +74,13 @@
     ],
     "created": [
         {
-            "value": "2023-06-21T02:29:30+00:00",
+            "value": "2023-06-25T22:47:48+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2023-06-21T02:30:00+00:00",
+            "value": "2023-06-25T22:48:03+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

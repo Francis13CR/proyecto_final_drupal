@@ -4,6 +4,7 @@ base:
     layout:
       css/layout/layout.css: {}
       css/layout/layout-footer.css: {}
+      css/layout/grid.css: {}
     component:
       css/components/action-links.css:
         weight: -10
