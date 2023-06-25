@@ -1,15 +1,15 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/block\/2?_format=hal_json"
+            "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/block\/1?_format=hal_json"
         },
         "type": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/type\/block_content\/basic"
+            "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/type\/block_content\/basic"
         }
     },
     "id": [
         {
-            "value": 2
+            "value": 1
         }
     ],
     "uuid": [
@@ -48,7 +48,7 @@
     ],
     "changed": [
         {
-            "value": "2023-06-21T02:30:00+00:00",
+            "value": "2023-06-25T23:26:46+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
@@ -72,9 +72,9 @@
     ],
     "body": [
         {
-            "value": "<img data-entity-uuid=\"47441f04-ed0d-474a-9353-8aa04c5db0ae\" data-entity-type=\"file\" src=\"\/sites\/default\/files\/inline-images\/Untitled.jpg\" alt=\"Imagen antes del desastre\" data-align=\"center\">",
+            "value": "<img src=\"\/sites\/default\/files\/inline-images\/drupal-banner2.jpg\" data-align=\"center\" data-entity-uuid=\"a219c82a-8cd9-491e-9863-d6fb9aaaab7a\" data-entity-type=\"file\" alt=\"Drupal\" width=\"75.65%\">",
             "format": "basic_html",
-            "processed": "<img data-entity-uuid=\"47441f04-ed0d-474a-9353-8aa04c5db0ae\" data-entity-type=\"file\" src=\"\/sites\/default\/files\/inline-images\/Untitled.jpg\" alt=\"Imagen antes del desastre\" class=\"align-center\" width=\"1550\" height=\"645\" loading=\"lazy\" \/>",
+            "processed": "<img src=\"\/sites\/default\/files\/inline-images\/drupal-banner2.jpg\" data-entity-uuid=\"a219c82a-8cd9-491e-9863-d6fb9aaaab7a\" data-entity-type=\"file\" alt=\"Drupal\" width=\"75.65%\" class=\"align-center\" height=\"1080\" loading=\"lazy\" \/>",
             "summary": "",
             "lang": "en"
         }
