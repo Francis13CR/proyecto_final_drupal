@@ -43,8 +43,8 @@
    * mobile navigation needs to slide beneath the button, but we also cannot
    * use padding because that would enable the button to scroll out of the
    * viewport on short screens. */
-  border-block-start: solid #284b63 calc(var(--sp3) + var(--drupal-displace-offset-top, 0px)) !important;
-  background-color: var(--color--white);
+  border-block-start: solid #284b63 calc(var(--sp3) + var(--drupal-displace-offset-top, 0px)) ;
+  background-color: #284b63;
   box-shadow: 0 0 72px rgba(0, 0, 0, 0.1);
 }
 
