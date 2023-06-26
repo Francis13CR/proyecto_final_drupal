@@ -30,9 +30,9 @@
   {% import _self as menus %}
   {% if items %}
     {% if menu_level == 0 %}
-      <ul{{ attributes.addClass('menu') }}>
+      <ul{{ attributes.addClass('menu menu-footer') }}>
     {% else %}
-      <ul class="menu">
+      <ul class="menu menu-footer">
     {% endif %}
     {% for item in items %}
     

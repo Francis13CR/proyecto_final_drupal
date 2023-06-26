@@ -34,7 +34,7 @@
   list-style: none;
 }
 
-.menu{
+.menu-footer {
   display: flex;
   justify-content: space-evenly;
 }
