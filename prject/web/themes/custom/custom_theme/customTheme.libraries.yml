@@ -22,6 +22,10 @@ base:
         weight: -10
       css/components/footer.css:
         weight: -10
+      css/components/header-navigation.css:
+        weight: -10
+      css/components/nav-button-mobile.css:
+        weight: -10
       css/components/form.css:
         weight: -10
       css/components/icons.css:

@@ -50,7 +50,7 @@ ul.menu, a.is-active {
 }
 
 .mobile-nav-button__icon {
-  border-top: solid 3px white !important;
+  border-top: solid 3px white;
 }
 .mobile-nav-button__icon::after {
   border-top: solid 3px white !important;

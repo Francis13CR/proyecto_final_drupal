@@ -1,30 +1,31 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/node\/19?_format=hal_json"
+            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/node\/18?_format=hal_json"
         },
         "type": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/type\/node\/video"
+            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/type\/node\/video"
         },
-        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/relation\/node\/video\/revision_uid": [
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/relation\/node\/video\/revision_uid": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/user\/0?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/user\/0?_format=hal_json"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/relation\/node\/video\/uid": [
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/relation\/node\/video\/uid": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/user\/0?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/user\/0?_format=hal_json",
+                "lang": "en"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/relation\/node\/video\/field_video_category": [
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/relation\/node\/video\/field_video_category": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/taxonomy\/term\/13?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/taxonomy\/term\/13?_format=hal_json"
             }
         ]
     },
     "nid": [
         {
-            "value": 19
+            "value": 18
         }
     ],
     "uuid": [
@@ -50,53 +51,54 @@
         }
     ],
     "_embedded": {
-        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/relation\/node\/video\/revision_uid": [
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/relation\/node\/video\/revision_uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/user\/0?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/user\/0?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/type\/user\/user"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "1954a88a-12f2-44c6-bb86-9457fcc8855a"
+                        "value": "88b135ba-1b5e-4ca2-934b-ab8fb7724d7d"
                     }
                 ]
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/relation\/node\/video\/uid": [
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/relation\/node\/video\/uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/user\/0?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/user\/0?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/type\/user\/user"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "1954a88a-12f2-44c6-bb86-9457fcc8855a"
+                        "value": "88b135ba-1b5e-4ca2-934b-ab8fb7724d7d"
                     }
-                ]
+                ],
+                "lang": "en"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/relation\/node\/video\/field_video_category": [
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/relation\/node\/video\/field_video_category": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/taxonomy\/term\/13?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/taxonomy\/term\/13?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "26af8823-395d-42d1-9a03-69f314c24709"
+                        "value": "808042cd-8419-4d73-bf8c-70e9cfa1a889"
                     }
                 ]
             }
@@ -104,34 +106,40 @@
     },
     "status": [
         {
-            "value": true
+            "value": true,
+            "lang": "en"
         }
     ],
     "title": [
         {
-            "value": "Repaso sobre UI Patterns"
+            "value": "Geralt's Story - The Witcher Relaxing Music Compilation (The Witcher 1, 2, 3)",
+            "lang": "en"
         }
     ],
     "created": [
         {
             "value": "2023-06-05T17:50:45+00:00",
+            "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2023-06-26T01:50:11+00:00",
+            "value": "2023-06-21T03:50:11+00:00",
+            "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "promote": [
         {
-            "value": false
+            "value": false,
+            "lang": "en"
         }
     ],
     "sticky": [
         {
-            "value": false
+            "value": false,
+            "lang": "en"
         }
     ],
     "default_langcode": [
@@ -146,17 +154,26 @@
             "lang": "en"
         }
     ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
     "body": [
         {
             "value": "<p>Pellentesque pellentesque quis nisl ut pellentesque. Vestibulum porttitor suscipit augue non scelerisque. In tincidunt ex et sagittis hendrerit. Donec porta lacus in nibh convallis, quis eleifend turpis sollicitudin. Curabitur ornare neque tortor, quis dignissim nulla aliquam eget.<\/p>",
             "format": "basic_html",
             "processed": "<p>Pellentesque pellentesque quis nisl ut pellentesque. Vestibulum porttitor suscipit augue non scelerisque. In tincidunt ex et sagittis hendrerit. Donec porta lacus in nibh convallis, quis eleifend turpis sollicitudin. Curabitur ornare neque tortor, quis dignissim nulla aliquam eget.<\/p>",
-            "summary": ""
+            "summary": "",
+            "lang": "en"
         }
     ],
     "field_video": [
         {
-            "value": "https:\/\/youtu.be\/F56yggSGdIk"
+            "value": "https:\/\/www.youtube.com\/watch?v=zAAVbFToD10&t=6751s"
         }
     ]
 }
