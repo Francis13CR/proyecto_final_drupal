@@ -1,0 +1,22 @@
+uuid: 24b3d13c-4a3d-4e01-a8aa-7cf3a11b7a93
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.palabras_clave
+id: taxonomy_term.palabras_clave.status
+field_name: status
+entity_type: taxonomy_term
+bundle: palabras_clave
+label: Published
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

@@ -5,7 +5,7 @@ video:
     src:
       type: string
       label: 'Video URL'
-      preview: https://www.youtube.com/embed/AB0OtN3-_Sg
+      preview: 'https://youtu.be/OWMyDQTx4D0'
   libraries:
     -
       video:

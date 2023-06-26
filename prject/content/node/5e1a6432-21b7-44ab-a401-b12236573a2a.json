@@ -1,31 +1,30 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/node\/8?_format=hal_json"
+            "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/node\/17?_format=hal_json"
         },
         "type": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/type\/node\/video"
+            "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/type\/node\/video"
         },
-        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/relation\/node\/video\/revision_uid": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/relation\/node\/video\/revision_uid": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/user\/0?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/user\/0?_format=hal_json"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/relation\/node\/video\/uid": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/relation\/node\/video\/uid": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/user\/0?_format=hal_json",
-                "lang": "en"
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/user\/0?_format=hal_json"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/relation\/node\/video\/field_video_category": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/relation\/node\/video\/field_video_category": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/taxonomy\/term\/13?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/taxonomy\/term\/9?_format=hal_json"
             }
         ]
     },
     "nid": [
         {
-            "value": 8
+            "value": 17
         }
     ],
     "uuid": [
@@ -51,54 +50,53 @@
         }
     ],
     "_embedded": {
-        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/relation\/node\/video\/revision_uid": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/relation\/node\/video\/revision_uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/user\/0?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/user\/0?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/type\/user\/user"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "88b135ba-1b5e-4ca2-934b-ab8fb7724d7d"
+                        "value": "1954a88a-12f2-44c6-bb86-9457fcc8855a"
                     }
                 ]
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/relation\/node\/video\/uid": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/relation\/node\/video\/uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/user\/0?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/user\/0?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/type\/user\/user"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "88b135ba-1b5e-4ca2-934b-ab8fb7724d7d"
+                        "value": "1954a88a-12f2-44c6-bb86-9457fcc8855a"
                     }
-                ],
-                "lang": "en"
+                ]
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/relation\/node\/video\/field_video_category": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/relation\/node\/video\/field_video_category": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/taxonomy\/term\/13?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/taxonomy\/term\/9?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "808042cd-8419-4d73-bf8c-70e9cfa1a889"
+                        "value": "01110b9b-5036-4801-b996-002f989a8a39"
                     }
                 ]
             }
@@ -106,40 +104,34 @@
     },
     "status": [
         {
-            "value": true,
-            "lang": "en"
+            "value": true
         }
     ],
     "title": [
         {
-            "value": "Skyrim - Music & Ambience - Rainy Day",
-            "lang": "en"
+            "value": "Uso de Default Content Deploy"
         }
     ],
     "created": [
         {
             "value": "2023-06-05T17:48:52+00:00",
-            "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2023-06-21T03:50:27+00:00",
-            "lang": "en",
+            "value": "2023-06-26T01:45:39+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "promote": [
         {
-            "value": false,
-            "lang": "en"
+            "value": false
         }
     ],
     "sticky": [
         {
-            "value": false,
-            "lang": "en"
+            "value": false
         }
     ],
     "default_langcode": [
@@ -154,26 +146,17 @@
             "lang": "en"
         }
     ],
-    "path": [
-        {
-            "alias": null,
-            "pid": null,
-            "langcode": "en",
-            "lang": "en"
-        }
-    ],
     "body": [
         {
             "value": "<p>raesent egestas risus et justo posuere condimentum a sed velit. Ut eleifend eget massa eget sagittis. Etiam facilisis diam massa, at vestibulum ligula suscipit sed. Sed ornare elementum nisl non pulvinar.&nbsp;<\/p>",
             "format": "basic_html",
             "processed": "<p>raesent egestas risus et justo posuere condimentum a sed velit. Ut eleifend eget massa eget sagittis. Etiam facilisis diam massa, at vestibulum ligula suscipit sed. Sed ornare elementum nisl non pulvinar.\u00a0<\/p>",
-            "summary": "",
-            "lang": "en"
+            "summary": ""
         }
     ],
     "field_video": [
         {
-            "value": "https:\/\/www.youtube.com\/watch?v=8F1-1j_ZDgc"
+            "value": "https:\/\/youtu.be\/dtm9fWRKrwQ"
         }
     ]
 }

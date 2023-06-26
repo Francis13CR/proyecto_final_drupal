@@ -1,48 +1,46 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/node\/2?_format=hal_json"
+            "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/node\/1?_format=hal_json"
         },
         "type": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/type\/node\/post"
+            "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/type\/node\/post"
         },
-        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/relation\/node\/post\/revision_uid": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/relation\/node\/post\/revision_uid": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/user\/0?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/user\/0?_format=hal_json"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/relation\/node\/post\/uid": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/relation\/node\/post\/uid": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/user\/0?_format=hal_json",
-                "lang": "en"
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/user\/0?_format=hal_json"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/relation\/node\/post\/field_category": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/relation\/node\/post\/field_category": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/taxonomy\/term\/3?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/taxonomy\/term\/1?_format=hal_json"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/relation\/node\/post\/field_image": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/relation\/node\/post\/field_image": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/sites\/default\/files\/2023-06\/lock.png",
-                "lang": "en"
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/sites\/default\/files\/2023-06\/lock.png"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/relation\/node\/post\/field_keywords": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/relation\/node\/post\/field_keywords": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/taxonomy\/term\/4?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/taxonomy\/term\/2?_format=hal_json"
             },
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/taxonomy\/term\/5?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/taxonomy\/term\/3?_format=hal_json"
             },
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/taxonomy\/term\/6?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/taxonomy\/term\/4?_format=hal_json"
             }
         ]
     },
     "nid": [
         {
-            "value": 2
+            "value": 1
         }
     ],
     "uuid": [
@@ -68,49 +66,48 @@
         }
     ],
     "_embedded": {
-        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/relation\/node\/post\/revision_uid": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/relation\/node\/post\/revision_uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/user\/0?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/user\/0?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/type\/user\/user"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "88b135ba-1b5e-4ca2-934b-ab8fb7724d7d"
+                        "value": "1954a88a-12f2-44c6-bb86-9457fcc8855a"
                     }
                 ]
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/relation\/node\/post\/uid": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/relation\/node\/post\/uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/user\/0?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/user\/0?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/type\/user\/user"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "88b135ba-1b5e-4ca2-934b-ab8fb7724d7d"
+                        "value": "1954a88a-12f2-44c6-bb86-9457fcc8855a"
                     }
-                ],
-                "lang": "en"
+                ]
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/relation\/node\/post\/field_category": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/relation\/node\/post\/field_category": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/taxonomy\/term\/3?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/taxonomy\/term\/1?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
                     }
                 },
                 "uuid": [
@@ -120,32 +117,31 @@
                 ]
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/relation\/node\/post\/field_image": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/relation\/node\/post\/field_image": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/sites\/default\/files\/2023-06\/lock.png"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/sites\/default\/files\/2023-06\/lock.png"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/type\/file\/file"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/type\/file\/file"
                     }
                 },
                 "uuid": [
                     {
                         "value": "ae5ca629-b6ac-4c9f-a45b-684a1d9ec25d"
                     }
-                ],
-                "lang": "en"
+                ]
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/relation\/node\/post\/field_keywords": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/relation\/node\/post\/field_keywords": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/taxonomy\/term\/4?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/taxonomy\/term\/2?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
                     }
                 },
                 "uuid": [
@@ -157,10 +153,10 @@
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/taxonomy\/term\/5?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/taxonomy\/term\/3?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
                     }
                 },
                 "uuid": [
@@ -172,10 +168,10 @@
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/taxonomy\/term\/6?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/taxonomy\/term\/4?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
                     }
                 },
                 "uuid": [
@@ -188,40 +184,34 @@
     },
     "status": [
         {
-            "value": true,
-            "lang": "en"
+            "value": true
         }
     ],
     "title": [
         {
-            "value": "Prueba de Post para Vista 2",
-            "lang": "en"
+            "value": "Prueba de Post para Vista 2"
         }
     ],
     "created": [
         {
             "value": "2023-06-03T22:34:51+00:00",
-            "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2023-06-26T00:21:21+00:00",
-            "lang": "en",
+            "value": "2023-06-26T02:36:10+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "promote": [
         {
-            "value": false,
-            "lang": "en"
+            "value": false
         }
     ],
     "sticky": [
         {
-            "value": false,
-            "lang": "en"
+            "value": false
         }
     ],
     "default_langcode": [
@@ -236,28 +226,19 @@
             "lang": "en"
         }
     ],
-    "path": [
-        {
-            "alias": null,
-            "pid": null,
-            "langcode": "en",
-            "lang": "en"
-        }
-    ],
     "body": [
         {
             "value": "<p>Morbi eu interdum nulla, ac fermentum felis. Proin feugiat volutpat elementum. Quisque malesuada erat eget vehicula viverra. Suspendisse turpis massa, aliquam malesuada fringilla ac, placerat id justo. Phasellus maximus nisl elit, id dictum quam gravida a. Donec a placerat ipsum. Nunc enim purus, mattis pharetra sagittis vitae, interdum non nulla. Donec mauris lorem, lacinia sollicitudin mauris aliquam, sagittis pellentesque nisi. Nunc consectetur purus ex, et hendrerit risus molestie ac. Quisque in ligula felis. Aenean nec velit elementum, vestibulum quam in, cursus arcu. Ut id fringilla mauris.<\/p>",
             "format": "basic_html",
             "processed": "<p>Morbi eu interdum nulla, ac fermentum felis. Proin feugiat volutpat elementum. Quisque malesuada erat eget vehicula viverra. Suspendisse turpis massa, aliquam malesuada fringilla ac, placerat id justo. Phasellus maximus nisl elit, id dictum quam gravida a. Donec a placerat ipsum. Nunc enim purus, mattis pharetra sagittis vitae, interdum non nulla. Donec mauris lorem, lacinia sollicitudin mauris aliquam, sagittis pellentesque nisi. Nunc consectetur purus ex, et hendrerit risus molestie ac. Quisque in ligula felis. Aenean nec velit elementum, vestibulum quam in, cursus arcu. Ut id fringilla mauris.<\/p>",
-            "summary": "",
-            "lang": "en"
+            "summary": ""
         }
     ],
     "field_comentarios": [
         {
             "status": 2,
             "cid": 0,
-            "last_comment_timestamp": 1687314929,
+            "last_comment_timestamp": 1685831814,
             "last_comment_name": null,
             "last_comment_uid": 0,
             "comment_count": 0

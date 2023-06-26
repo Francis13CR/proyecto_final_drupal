@@ -1,0 +1,18 @@
+uuid: 13b937f8-a5c9-49ad-bc2e-475914fdd983
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.video
+id: node.video.changed
+field_name: changed
+entity_type: node
+bundle: video
+label: Changed
+description: 'The time that the node was last edited.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: changed

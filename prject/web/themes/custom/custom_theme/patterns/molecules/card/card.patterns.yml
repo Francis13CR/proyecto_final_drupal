@@ -1,11 +1,22 @@
 card: 
   label: 'card'
   description: 'card'
+  variants:
+    default:
+      label:  card with image
+      variant: video
+    video:
+      label: card with video
+      description: card with video
   fields: 
     image_url: 
       type: url
       label: URL for the atom image
       preview: 'https://th.bing.com/th/id/OIP.gMEKqZv-AanI3YYpoFdofQHaFj?pid=ImgDet&rs=1'
+    video_url: 
+      type: url
+      label: URL for the atom video
+      preview: 'https://youtu.be/OWMyDQTx4D0'
     alt_image:
       type: string
       label: Alt Text  for the atom image

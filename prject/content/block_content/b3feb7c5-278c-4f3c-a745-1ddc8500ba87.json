@@ -1,15 +1,15 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/block\/3?_format=hal_json"
+            "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/block\/2?_format=hal_json"
         },
         "type": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us100.gitpod.io\/rest\/type\/block_content\/basic"
+            "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us100.gitpod.io\/rest\/type\/block_content\/basic"
         }
     },
     "id": [
         {
-            "value": 3
+            "value": 2
         }
     ],
     "uuid": [
@@ -36,20 +36,17 @@
     ],
     "status": [
         {
-            "value": true,
-            "lang": "en"
+            "value": true
         }
     ],
     "info": [
         {
-            "value": "Large Text",
-            "lang": "en"
+            "value": "Large Text"
         }
     ],
     "changed": [
         {
             "value": "2023-06-26T01:14:05+00:00",
-            "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -75,8 +72,7 @@
             "value": "<h3>Allow us to introduce you to the incredible team of young individuals behind the successful development of our Drupal website.<\/h3><h2>Francis Mel\u00e9ndez<\/h2><h3>Leading our team is a talented 21-year-old developer with an innate passion for programming. Francis not only possesses extensive technical knowledge but also has an exceptional ability to coordinate tasks and solve problems efficiently. His contagious sense of humor and positive attitude contribute to maintaining a joyful and motivating work environment. With his leadership, the team remains focused and united in achieving our goals.<\/h3><img src=\"\/sites\/default\/files\/inline-images\/photo1687741085_0.jpeg\" data-align=\"center\" data-entity-uuid=\"bd0f22d2-2e62-455a-8b59-2998cab4238c\" data-entity-type=\"file\" alt=\"\" width=\"50%\"><p>&nbsp;<\/p><h2>Melanie Gamboa<\/h2><h3>At 22 years old, Melanie is a creative developer highly committed to implementing specific features on our website. Her versatility and diverse knowledge in various technologies and programming languages allow us to deliver unique and attractive functionalities. Melanie is known for her enthusiasm and her ability to motivate the team even in the most challenging moments. Her contagious energy drives collaboration and the achievement of outstanding results.<\/h3><img src=\"\/sites\/default\/files\/inline-images\/photo1687741444_0.jpeg\" data-align=\"center\" data-entity-uuid=\"e1d39a96-2bdd-4550-b2fd-9a299da980ed\" data-entity-type=\"file\" alt=\"\" width=\"50%\"><h3>&nbsp;<\/h3><h2>Anthony Cubero<\/h2><h3>Also 22 years old, Anthony stands out as the person responsible for releases and managing work branches. His meticulous approach and artistic talent are invaluable for the visual design of our website. Anthony possesses a refined aesthetic sense and utilizes his artistic skills to create appealing and user-friendly interfaces. His seriousness and commitment to design excellence inspire the team to reach high standards of quality and aesthetics in every project.<\/h3><img src=\"\/sites\/default\/files\/inline-images\/photo1687741067_0.jpeg\" data-align=\"center\" data-entity-uuid=\"35b71881-2acf-4440-aa4a-e2858a265862\" data-entity-type=\"file\" alt=\"\" width=\"50%\"><p>&nbsp;<\/p><h2>Marco Palma<\/h2><h3>A passionate 21-year-old, Marco specializes in the management and maintenance of configuration files, as well as workflow optimization. His advanced technical skills and profound knowledge in multimedia are essential in ensuring our website operates smoothly and stands out in terms of performance. In addition to his technical abilities, Marco is known for creating a friendly and collaborative work environment, promoting effective communication and camaraderie within the team.<\/h3><img data-entity-uuid=\"714af5c4-c36a-440a-b439-8d7190f53d3f\" data-entity-type=\"file\" src=\"\/sites\/default\/files\/inline-images\/1667234968106-01.jpeg\" alt=\"\" data-align=\"center\" width=\"50%\"><h3>&nbsp;<\/h3><h3>Together, Francis, Melanie, Anthony, and Marco form an exceptionally talented and diverse team. Their combination of technical skills, creativity, and dedication has allowed us to develop a Drupal website that excels in both functionality and aesthetics. Each of them plays a key role in the success of our project, and we are excited to continue growing and evolving as a team.<\/h3>",
             "format": "full_html",
             "processed": "<h3>Allow us to introduce you to the incredible team of young individuals behind the successful development of our Drupal website.<\/h3><h2>Francis Mel\u00e9ndez<\/h2><h3>Leading our team is a talented 21-year-old developer with an innate passion for programming. Francis not only possesses extensive technical knowledge but also has an exceptional ability to coordinate tasks and solve problems efficiently. His contagious sense of humor and positive attitude contribute to maintaining a joyful and motivating work environment. With his leadership, the team remains focused and united in achieving our goals.<\/h3><img src=\"\/sites\/default\/files\/inline-images\/photo1687741085_0.jpeg\" data-entity-uuid=\"bd0f22d2-2e62-455a-8b59-2998cab4238c\" data-entity-type=\"file\" alt=\"\" width=\"50%\" class=\"align-center\" height=\"1280\" loading=\"lazy\" \/><p>\u00a0<\/p><h2>Melanie Gamboa<\/h2><h3>At 22 years old, Melanie is a creative developer highly committed to implementing specific features on our website. Her versatility and diverse knowledge in various technologies and programming languages allow us to deliver unique and attractive functionalities. Melanie is known for her enthusiasm and her ability to motivate the team even in the most challenging moments. Her contagious energy drives collaboration and the achievement of outstanding results.<\/h3><img src=\"\/sites\/default\/files\/inline-images\/photo1687741444_0.jpeg\" data-entity-uuid=\"e1d39a96-2bdd-4550-b2fd-9a299da980ed\" data-entity-type=\"file\" alt=\"\" width=\"50%\" class=\"align-center\" height=\"1280\" loading=\"lazy\" \/><h3>\u00a0<\/h3><h2>Anthony Cubero<\/h2><h3>Also 22 years old, Anthony stands out as the person responsible for releases and managing work branches. His meticulous approach and artistic talent are invaluable for the visual design of our website. Anthony possesses a refined aesthetic sense and utilizes his artistic skills to create appealing and user-friendly interfaces. His seriousness and commitment to design excellence inspire the team to reach high standards of quality and aesthetics in every project.<\/h3><img src=\"\/sites\/default\/files\/inline-images\/photo1687741067_0.jpeg\" data-entity-uuid=\"35b71881-2acf-4440-aa4a-e2858a265862\" data-entity-type=\"file\" alt=\"\" width=\"50%\" class=\"align-center\" height=\"1280\" loading=\"lazy\" \/><p>\u00a0<\/p><h2>Marco Palma<\/h2><h3>A passionate 21-year-old, Marco specializes in the management and maintenance of configuration files, as well as workflow optimization. His advanced technical skills and profound knowledge in multimedia are essential in ensuring our website operates smoothly and stands out in terms of performance. In addition to his technical abilities, Marco is known for creating a friendly and collaborative work environment, promoting effective communication and camaraderie within the team.<\/h3><img data-entity-uuid=\"714af5c4-c36a-440a-b439-8d7190f53d3f\" data-entity-type=\"file\" src=\"\/sites\/default\/files\/inline-images\/1667234968106-01.jpeg\" alt=\"\" width=\"50%\" class=\"align-center\" height=\"1500\" loading=\"lazy\" \/><h3>\u00a0<\/h3><h3>Together, Francis, Melanie, Anthony, and Marco form an exceptionally talented and diverse team. Their combination of technical skills, creativity, and dedication has allowed us to develop a Drupal website that excels in both functionality and aesthetics. Each of them plays a key role in the success of our project, and we are excited to continue growing and evolving as a team.<\/h3>",
-            "summary": "",
-            "lang": "en"
+            "summary": ""
         }
     ]
 }

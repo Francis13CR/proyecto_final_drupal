@@ -1,20 +1,51 @@
-<div class="card  m-1 p-1  ">
+{%
+  set classColText = 'col-md-8'
+%}
+{%
+  set classColMedia= 'col-md-4'
+%}
+{%
+  set card= 'card'
+%}
+{% if variant == 'video' %}
+  {%
+    set classColText = 'col-md-12'
+  %}
+  {%
+    set classColMedia= 'col-md-12'
+  %}
+  {%
+    set card= ''
+  %}
+{% endif %}
+
+<div class="{{card}} m-1 p-1">
   <div class="card-content m-1 p-1 row ">
-    <div class="col-md-4 d-flex align-items-center">
-      {{ pattern('image',{
-          alt: alt_image,
-          src: image_url
-      })}}
+    <div class="{{classColMedia}} d-flex align-items-center">
+      {% if variant == 'video' %}
+        <div class="embed-responsive embed-responsive-16by9">
+          {{ pattern('video',{
+              src: video_url
+          })}}
+        </div> 
+      {% else %}
+        {{ pattern('image',{
+            alt: alt_image,
+            src: image_url
+        })}}
+      {% endif %}
     </div>
-    <div class="col-md-8 text-card text-justify">
+    <div class="{{classColText}} text-card text-justify">
       {{ pattern('text',{
           text: text,
           title: title
       })}}
-      {{ pattern('button',{
-          text: 'Read more',
-          url: url
-      })}}
+     
+        {{ pattern('button',{
+            text: 'Read more',
+            url: url
+        })}}
+    
     </div>
   </div>
 </div>

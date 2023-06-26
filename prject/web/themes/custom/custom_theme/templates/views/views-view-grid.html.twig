@@ -72,12 +72,11 @@
             {%
               set currentPage = path('<current>')
             %}
+            {# mostrar solo las primeras 20 palabras #}
+            {% set truncatedContent = content|split(' ')|slice(0, 20)|join(' ') %}
             {% if currentPage == '/node' or currentPage == '/posts' %}
-            
-              {# mostrar solo las primeras 20 palabras #}
-              {% set truncatedContent = content|split(' ')|slice(0, 20)|join(' ') %}
-               {# {{kint(column.content['#row']._entity.field_image[0].height)}} 
-                {{kint(column.content['#row']._entity.field_image[0].alt)}}  #}
+              {# {{kint(column.content['#row']._entity.field_image[0].height)}} 
+              {{kint(column.content['#row']._entity.field_image[0].alt)}}  #}
               {{ pattern('card',{
                   title: column.content['#row']._entity.title[0].value,
                   text: truncatedContent | striptags,
@@ -85,6 +84,15 @@
                   alt_image : column.content['#row']._entity.field_image[0].alt,
                   url: entityUrl
               })}}
+            {% elseif currentPage == '/video-galery' %}
+             {# {{kint(column.content['#row']._entity.field_video.value)}} #}
+              {{ pattern('card',{
+                  title: column.content['#row']._entity.title[0].value,
+                  text: truncatedContent | striptags,
+                  video_url : column.content['#row']._entity.field_video.value,
+                  url: entityUrl
+              }, 'video' )}}
+
             {% else %}
                {{- column.content -}}
             {% endif %}    
