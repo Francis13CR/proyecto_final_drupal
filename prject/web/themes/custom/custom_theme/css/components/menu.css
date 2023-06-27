@@ -1,0 +1,60 @@
+/**
+ * @file
+ * Visual styles for menu.
+ */
+
+ .primary-nav__menu-link {
+  color: white !important;
+ }
+
+ .secondary-nav__menu-link {
+  color: white !important;
+ }
+
+ .block-search-wide__button svg {
+  color: white !important;
+ }
+
+ul.menu {
+  margin-left: 1em; /* LTR */
+  padding: 0;
+  list-style: none outside;
+  text-align: left; /* LTR */
+}
+[dir="rtl"] ul.menu {
+  margin-right: 1em;
+  margin-left: 0;
+  text-align: right;
+}
+.menu-item--expanded {
+  list-style-type: circle;
+  list-style-image: url(../../images/icons/menu-expanded.png);
+}
+.menu-item--collapsed {
+  list-style-type: disc;
+  list-style-image: url(../../images/icons/menu-collapsed.png); /* LTR */
+}
+[dir="rtl"] .menu-item--collapsed {
+  list-style-image: url(../../images/icons/menu-collapsed-rtl.png);
+}
+.menu-item {
+  margin: 0;
+  padding-top: 0.2em;
+}
+ul.menu, a.is-active {
+  color: white;
+}
+
+.site-header__inner__container, .header-nav, .site-header__inner {
+  background-color: #284B63 !important;
+}
+
+.mobile-nav-button__icon {
+  border-top: solid 3px white;
+}
+.mobile-nav-button__icon::after {
+  border-top: solid 3px white !important;
+}
+.mobile-nav-button__icon::before {
+  border-top: solid 3px white !important;
+}

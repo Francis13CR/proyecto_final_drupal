@@ -373,52 +373,16 @@ display:
             default_group_multiple: {  }
             group_items: {  }
       style:
-        type: table
+        type: grid
         options:
           grouping: {  }
-          row_class: ''
-          default_row_class: true
-          columns:
-            field_image: field_image
-            title_1: title_1
-            field_category: field_category
-            body: body
-          default: '-1'
-          info:
-            field_image:
-              sortable: false
-              default_sort_order: asc
-              align: views-align-left
-              separator: ''
-              empty_column: false
-              responsive: ''
-            title_1:
-              sortable: false
-              default_sort_order: asc
-              align: ''
-              separator: ''
-              empty_column: false
-              responsive: ''
-            field_category:
-              sortable: false
-              default_sort_order: asc
-              align: ''
-              separator: ''
-              empty_column: false
-              responsive: ''
-            body:
-              sortable: false
-              default_sort_order: asc
-              align: ''
-              separator: ''
-              empty_column: false
-              responsive: ''
-          override: true
-          sticky: false
-          summary: ''
-          empty_table: false
-          caption: ''
-          description: ''
+          columns: 1
+          automatic_width: true
+          alignment: horizontal
+          row_class_custom: ''
+          row_class_default: true
+          col_class_custom: ''
+          col_class_default: true
       row:
         type: fields
         options:
@@ -505,7 +469,7 @@ display:
         type: normal
         title: Home
         description: ''
-        weight: 0
+        weight: -50
         expanded: false
         menu_name: main
         parent: ''

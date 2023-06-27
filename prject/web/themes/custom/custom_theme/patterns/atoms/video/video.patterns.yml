@@ -1,0 +1,18 @@
+video:
+  label: 'Video'
+  description: 'Video'
+  fields:
+    src:
+      type: string
+      label: 'Video URL'
+      preview: 'https://youtu.be/OWMyDQTx4D0'
+  libraries:
+    -
+      video:
+        css:
+          component:
+            css/style.css: {}
+          theme:
+            ../../../libraries/bootstrap/css/bootstrap.min.css: {}
+        js:
+          ../../../libraries/bootstrap/js/bootstrap.min.js: {}

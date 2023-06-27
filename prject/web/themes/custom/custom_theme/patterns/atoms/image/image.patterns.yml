@@ -1,0 +1,22 @@
+image:
+  label: 'Image'
+  description: 'Image'
+  fields:
+    src:
+      type: image
+      label: Image
+      preview: https://th.bing.com/th/id/OIP.gMEKqZv-AanI3YYpoFdofQHaFj?pid=ImgDet&rs=1
+    alt:
+      type: string
+      label: Alt Text
+      preview: "Hola mi amigo"
+  libraries:
+    -
+      image:
+        css:
+          component:
+            css/style.css: {}
+          theme:
+            ../../../libraries/bootstrap/css/bootstrap.min.css: {}
+        js:
+          ../../../libraries/bootstrap/js/bootstrap.min.js: {}

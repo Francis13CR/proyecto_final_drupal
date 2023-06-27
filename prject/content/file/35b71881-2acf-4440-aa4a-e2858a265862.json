@@ -1,0 +1,63 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/sites\/default\/files\/inline-images\/photo1687741067_0.jpeg"
+        },
+        "type": {
+            "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/type\/file\/file"
+        }
+    },
+    "fid": [
+        {
+            "value": 40
+        }
+    ],
+    "uuid": [
+        {
+            "value": "35b71881-2acf-4440-aa4a-e2858a265862"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "filename": [
+        {
+            "value": "photo1687741067.jpeg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/inline-images\/photo1687741067_0.jpeg",
+            "url": "\/sites\/default\/files\/inline-images\/photo1687741067_0.jpeg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 128866
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-06-26T01:10:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-26T01:10:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

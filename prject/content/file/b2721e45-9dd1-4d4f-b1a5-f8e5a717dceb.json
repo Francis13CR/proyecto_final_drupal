@@ -1,0 +1,63 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/sites\/default\/files\/2023-06\/conejo_0.jpg"
+        },
+        "type": {
+            "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/type\/file\/file"
+        }
+    },
+    "fid": [
+        {
+            "value": 35
+        }
+    ],
+    "uuid": [
+        {
+            "value": "b2721e45-9dd1-4d4f-b1a5-f8e5a717dceb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "filename": [
+        {
+            "value": "conejo_0.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2023-06\/conejo_0.jpg",
+            "url": "\/sites\/default\/files\/2023-06\/conejo_0.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 17920
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-06-23T21:52:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-23T21:52:27+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}
