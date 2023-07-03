@@ -1,48 +1,48 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/node\/11?_format=hal_json"
+            "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/node\/9?_format=hal_json"
         },
         "type": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/type\/node\/post"
+            "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/type\/node\/post"
         },
-        "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/relation\/node\/post\/revision_uid": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/relation\/node\/post\/revision_uid": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/user\/0?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/user\/1?_format=hal_json"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/relation\/node\/post\/uid": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/relation\/node\/post\/uid": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/user\/0?_format=hal_json",
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/user\/1?_format=hal_json",
                 "lang": "en"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/relation\/node\/post\/field_category": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_category": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/taxonomy\/term\/17?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/taxonomy\/term\/9?_format=hal_json"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/relation\/node\/post\/field_image": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_image": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/sites\/default\/files\/2023-06\/druapl2_1.png",
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/sites\/default\/files\/2023-07\/export.jpeg",
                 "lang": "en"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/relation\/node\/post\/field_keywords": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_keywords": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/taxonomy\/term\/3?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/taxonomy\/term\/3?_format=hal_json"
             },
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/taxonomy\/term\/19?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/taxonomy\/term\/28?_format=hal_json"
             },
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/taxonomy\/term\/9?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/taxonomy\/term\/6?_format=hal_json"
             }
         ]
     },
     "nid": [
         {
-            "value": 11
+            "value": 9
         }
     ],
     "uuid": [
@@ -63,54 +63,54 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2023-06-21T02:46:39+00:00",
+            "value": "2023-07-03T03:25:05+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "_embedded": {
-        "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/relation\/node\/post\/revision_uid": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/relation\/node\/post\/revision_uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/user\/0?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/user\/1?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/type\/user\/user"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "832995ad-9b2a-4d8b-86c3-5bcbbc7aeaa8"
+                        "value": "d085cd4a-ad80-4b3e-8cb1-a8bac4e4ed12"
                     }
                 ]
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/relation\/node\/post\/uid": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/relation\/node\/post\/uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/user\/0?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/user\/1?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/type\/user\/user"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "832995ad-9b2a-4d8b-86c3-5bcbbc7aeaa8"
+                        "value": "d085cd4a-ad80-4b3e-8cb1-a8bac4e4ed12"
                     }
                 ],
                 "lang": "en"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/relation\/node\/post\/field_category": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_category": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/taxonomy\/term\/17?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/taxonomy\/term\/9?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
                     }
                 },
                 "uuid": [
@@ -120,32 +120,32 @@
                 ]
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/relation\/node\/post\/field_image": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_image": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/sites\/default\/files\/2023-06\/druapl2_1.png"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/sites\/default\/files\/2023-07\/export.jpeg"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/type\/file\/file"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/type\/file\/file"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "39daa65c-61ca-474f-8e94-6d7dafb31c73"
+                        "value": "cfb54c97-dc07-4ee9-a46c-0e6436712105"
                     }
                 ],
                 "lang": "en"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/relation\/node\/post\/field_keywords": [
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_keywords": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/taxonomy\/term\/3?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/taxonomy\/term\/3?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
                     }
                 },
                 "uuid": [
@@ -157,30 +157,30 @@
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/taxonomy\/term\/19?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/taxonomy\/term\/28?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "56e4de77-a25e-445e-a921-0fa30580a2d8"
+                        "value": "d89b0fc1-9245-4c75-b0d4-2a960176ab98"
                     }
                 ]
             },
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/taxonomy\/term\/9?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/taxonomy\/term\/6?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "8465c947-e26f-4d2e-8892-f3d67c9584ad"
+                        "value": "23d7d254-13bf-43b6-b25b-927d01c2aea5"
                     }
                 ]
             }
@@ -194,7 +194,7 @@
     ],
     "title": [
         {
-            "value": "Autem",
+            "value": "Exporting Configurations and Content in Drupal",
             "lang": "en"
         }
     ],
@@ -207,14 +207,14 @@
     ],
     "changed": [
         {
-            "value": "2023-06-26T01:20:44+00:00",
+            "value": "2023-07-03T03:25:05+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "promote": [
         {
-            "value": false,
+            "value": true,
             "lang": "en"
         }
     ],
@@ -246,16 +246,16 @@
     ],
     "body": [
         {
-            "value": "Qui te valetudo vicis. Abdo abluo esse gravis iriure laoreet obruo. Duis hendrerit valetudo vulputate. Abluo iaceo tego velit. Causa facilisis jus nunc paulatim ulciscor. Feugiat iustum nibh pneum quadrum singularis usitas utinam. At pertineo populus ymo. Dolus fere gemino iusto jugis vicis. Appellatio consectetuer esca saepius suscipere. Esse huic imputo mauris obruo persto singularis tincidunt wisi.\r\n\r\nDuis facilisi jugis magna meus rusticus torqueo. Ex minim nisl oppeto quae qui quis vulputate. Decet elit exerci ideo nulla roto suscipere valetudo validus.\r\n\r\nConsectetuer consequat dolore facilisi ideo lobortis praesent quidem ratis turpis. Aliquip commoveo ideo letalis paulatim. Appellatio at elit euismod eum hos macto nobis pneum volutpat. Esse laoreet velit. Capto commodo consectetuer feugiat modo natu olim pala valde vicis. Amet bene caecus dolor iaceo neque nutus refero rusticus. Esca ex fere imputo jus melior torqueo velit vulputate zelus.\r\n\r\nAdipiscing jus lobortis obruo. Ibidem inhibeo si. Abico aptent ideo volutpat. Abluo ex meus tamen tum verto. Dolore enim eros fere macto melior os paulatim si vel. Nibh odio oppeto utrum. Ideo neque nisl praemitto roto sit validus. Camur eligo incassum jumentum macto magna metuo quidne valetudo.\r\n\r\nAdipiscing dignissim esse gilvus interdico minim nulla premo tamen uxor. Aliquam brevitas secundum utinam. Dolus ea esse facilisis gravis laoreet mos usitas. Abdo dolor hendrerit ille iusto obruo. Abico autem dolor. Nisl quae virtus. At ea quia vereor vulpes.\r\n\r\nAd gravis in paratus saepius tincidunt ullamcorper utinam vulpes. Exputo quibus refoveo velit. Aliquip defui et gilvus iaceo imputo minim premo. Antehabeo comis consequat hendrerit. Acsi exputo melior neque ulciscor ut utinam utrum vel. Abdo eligo in jumentum lobortis mauris natu refoveo sit ut. Appellatio bene enim validus. Jus macto quibus vicis vulputate. Dignissim dolore metuo minim oppeto quae quidne.\r\n\r\nCapto conventio praesent vel vicis. Abluo humo laoreet praesent roto tation. Autem populus ullamcorper vel veniam. Ad adipiscing commodo gemino nutus si venio. Erat in sudo.\r\n\r\nAmet autem paratus vereor. Brevitas dolor eros nisl sagaciter valde. Capto dignissim importunus laoreet melior molior neque obruo vereor. Ad camur interdico pneum similis. Esse jumentum patria ut. Capto duis gilvus illum metuo nunc. Abico aliquam capto damnum neque nobis obruo saluto sit ut.\r\n\r\nJus nimis premo quidne refero voco. Augue conventio damnum ea huic ludus nisl. Accumsan eros mauris nulla pala proprius singularis. Abico autem bene fere genitus ille metuo tum. Esse huic imputo meus odio paratus premo veniam. Abico adipiscing comis consequat defui gemino inhibeo ratis velit vulputate. Blandit elit paratus quidem refoveo si. Abluo at dignissim eu lucidus rusticus sit suscipere valetudo verto.\r\n\r\nSaluto sino torqueo ut. Abluo acsi commoveo dolore ex neo nunc occuro saepius usitas. Abluo camur facilisis jus scisco. Gilvus importunus iustum natu oppeto sudo vicis. Blandit defui hendrerit qui sit. Amet hendrerit ille laoreet macto natu nibh valetudo zelus.\r\n\r\nDecet euismod iustum obruo os veniam. Aliquip commoveo elit ex praemitto tego vel. Adipiscing blandit camur et jugis macto modo similis uxor vel. Inhibeo letalis persto roto torqueo. Fere jumentum nunc occuro pala pecus vel ymo. Antehabeo eu refoveo utrum. Feugiat iustum paratus quae scisco tego vulputate.\r\n\r\nDecet exerci populus sed typicus uxor. Consectetuer distineo quae. Abdo caecus eros huic ullamcorper utinam voco vulputate. Aptent at decet rusticus sino. Damnum letalis quidne saluto. Aptent ille plaga refoveo scisco vulputate. Bene nimis nobis qui.\r\n\r\n",
+            "value": "In this post, we will delve into the crucial process of exporting configurations and content from a Drupal project. By following the steps outlined below, you'll be able to effectively transfer settings and data between different instances of your Drupal site.\r\n\r\nExporting configurations and content is crucial in Drupal projects as it allows you to transfer settings and data between instances. Configuration export helps in replicating site structure, modules, and theme configurations, while content export enables you to migrate articles, pages, media files, and other site content seamlessly. By mastering these export processes, you ensure consistency and save time during site development.\r\n\r\nBefore proceeding with the export process, ensure that you have the following prerequisites:\r\n- A functional Drupal site set up and running.\r\n- DDEV and Git installed on your local development environment.\r\n- Familiarity with basic Drupal concepts and commands.\r\n- You must have the default content extension installed and activated: ddev composer require drupal\/default_content_deploy\r\n-Once the extension is activated, several configurations must be made, in our settings.php file in web\/sites\/default we must:\r\n    - Configure the content directory by pasting the following commands at the end of the file:\r\n      \/\/ Relative path:\r\n     $settings['default_content_deploy_content_directory'] = '..\/content';\r\n     \/\/ Absolute path:\r\n    $settings['default_content_deploy_content_directory'] = '\/var\/dcd\/content';\r\n\r\n-Once this is done, go to our website and go to admin -> configuration -> developmetn -> Default Content Deploythere we must place ..\/content inside the content directory box in the configuration section.\r\n\r\n\r\nExporting Configurations\r\nStarting DDEV and Updating Git\r\nTo ensure a stable and up-to-date environment, follow these steps before exporting configurations:\r\n1. Navigate to your project directory and start your DDEV environment using the command `ddev start`.\r\n2. Update your Git repository by executing `git pull` to fetch the latest changes.\r\n\r\nUsing the \"ddev exec drush cex\" Command\r\nThe recommended method for exporting configurations in Drupal is to use the command `ddev exec drush cex`. Follow these steps:\r\n1. Open your terminal or command prompt and navigate to your Drupal project directory.\r\n2. Execute the command `ddev exec drush cex` to initiate the configuration export process.\r\n3. Review the output for any warnings or errors that may require your attention.\r\n4. Once the export process is complete, you'll find the exported configuration files in the designated location.\r\n\r\nExporting Content\r\nSubsection 4.1: Starting DDEV and Updating Git\r\nBefore exporting content, ensure that your DDEV environment is running and your Git repository is up to date by following these steps:\r\n1. Open your terminal or command prompt and navigate to your Drupal project directory.\r\n2. Start your DDEV environment by running the command `ddev start`.\r\n3. Update your Git repository by executing `git pull` to fetch the latest changes.\r\n\r\nUsing the \"ddev drush dcde\" Command\r\nTo export content from your Drupal project, use the `ddev drush dcde` command. Follow these steps:\r\n1. In your terminal or command prompt, navigate to your Drupal project directory.\r\n2. Execute the command `ddev drush dcde <content_type>` to initiate the content export process. Replace `<content_type>` with the desired content type, such as `node`, `block_content`, `taxonomy_term`, etc (consult the documention).\r\n3. Monitor the output for any warnings or errors that may require your attention.\r\n4. After the export process is complete, you'll find the exported content in the designated location.\r\n\r\nConclusion\r\nExporting configurations and content in Drupal is a vital skill for developers and site administrators. By following the step-by-step guide provided in this post, you can efficiently transfer settings and data between different instances of your Drupal site. Remember to start DDEV and update Git before exporting, ensuring a stable and up-to-date environment.\r\n\r\nNote: Ensure that the commands mentioned in this guide are compatible with your Drupal version and environment.",
             "format": "plain_text",
-            "processed": "<p>Qui te valetudo vicis. Abdo abluo esse gravis iriure laoreet obruo. Duis hendrerit valetudo vulputate. Abluo iaceo tego velit. Causa facilisis jus nunc paulatim ulciscor. Feugiat iustum nibh pneum quadrum singularis usitas utinam. At pertineo populus ymo. Dolus fere gemino iusto jugis vicis. Appellatio consectetuer esca saepius suscipere. Esse huic imputo mauris obruo persto singularis tincidunt wisi.<\/p>\n<p>Duis facilisi jugis magna meus rusticus torqueo. Ex minim nisl oppeto quae qui quis vulputate. Decet elit exerci ideo nulla roto suscipere valetudo validus.<\/p>\n<p>Consectetuer consequat dolore facilisi ideo lobortis praesent quidem ratis turpis. Aliquip commoveo ideo letalis paulatim. Appellatio at elit euismod eum hos macto nobis pneum volutpat. Esse laoreet velit. Capto commodo consectetuer feugiat modo natu olim pala valde vicis. Amet bene caecus dolor iaceo neque nutus refero rusticus. Esca ex fere imputo jus melior torqueo velit vulputate zelus.<\/p>\n<p>Adipiscing jus lobortis obruo. Ibidem inhibeo si. Abico aptent ideo volutpat. Abluo ex meus tamen tum verto. Dolore enim eros fere macto melior os paulatim si vel. Nibh odio oppeto utrum. Ideo neque nisl praemitto roto sit validus. Camur eligo incassum jumentum macto magna metuo quidne valetudo.<\/p>\n<p>Adipiscing dignissim esse gilvus interdico minim nulla premo tamen uxor. Aliquam brevitas secundum utinam. Dolus ea esse facilisis gravis laoreet mos usitas. Abdo dolor hendrerit ille iusto obruo. Abico autem dolor. Nisl quae virtus. At ea quia vereor vulpes.<\/p>\n<p>Ad gravis in paratus saepius tincidunt ullamcorper utinam vulpes. Exputo quibus refoveo velit. Aliquip defui et gilvus iaceo imputo minim premo. Antehabeo comis consequat hendrerit. Acsi exputo melior neque ulciscor ut utinam utrum vel. Abdo eligo in jumentum lobortis mauris natu refoveo sit ut. Appellatio bene enim validus. Jus macto quibus vicis vulputate. Dignissim dolore metuo minim oppeto quae quidne.<\/p>\n<p>Capto conventio praesent vel vicis. Abluo humo laoreet praesent roto tation. Autem populus ullamcorper vel veniam. Ad adipiscing commodo gemino nutus si venio. Erat in sudo.<\/p>\n<p>Amet autem paratus vereor. Brevitas dolor eros nisl sagaciter valde. Capto dignissim importunus laoreet melior molior neque obruo vereor. Ad camur interdico pneum similis. Esse jumentum patria ut. Capto duis gilvus illum metuo nunc. Abico aliquam capto damnum neque nobis obruo saluto sit ut.<\/p>\n<p>Jus nimis premo quidne refero voco. Augue conventio damnum ea huic ludus nisl. Accumsan eros mauris nulla pala proprius singularis. Abico autem bene fere genitus ille metuo tum. Esse huic imputo meus odio paratus premo veniam. Abico adipiscing comis consequat defui gemino inhibeo ratis velit vulputate. Blandit elit paratus quidem refoveo si. Abluo at dignissim eu lucidus rusticus sit suscipere valetudo verto.<\/p>\n<p>Saluto sino torqueo ut. Abluo acsi commoveo dolore ex neo nunc occuro saepius usitas. Abluo camur facilisis jus scisco. Gilvus importunus iustum natu oppeto sudo vicis. Blandit defui hendrerit qui sit. Amet hendrerit ille laoreet macto natu nibh valetudo zelus.<\/p>\n<p>Decet euismod iustum obruo os veniam. Aliquip commoveo elit ex praemitto tego vel. Adipiscing blandit camur et jugis macto modo similis uxor vel. Inhibeo letalis persto roto torqueo. Fere jumentum nunc occuro pala pecus vel ymo. Antehabeo eu refoveo utrum. Feugiat iustum paratus quae scisco tego vulputate.<\/p>\n<p>Decet exerci populus sed typicus uxor. Consectetuer distineo quae. Abdo caecus eros huic ullamcorper utinam voco vulputate. Aptent at decet rusticus sino. Damnum letalis quidne saluto. Aptent ille plaga refoveo scisco vulputate. Bene nimis nobis qui.<\/p>\n",
-            "summary": "Qui te valetudo vicis. Abdo abluo esse gravis iriure laoreet obruo. Duis hendrerit valetudo vulputate. Abluo iaceo tego velit. Causa facilisis jus nunc paulatim ulciscor. Feugiat iustum nibh pneum quadrum singularis usitas utinam. At pertineo populus ymo. Dolus fere gemino iusto jugis vicis. Appellatio consectetuer esca saepius suscipere. Esse huic imputo mauris obruo persto singularis tincidunt wisi.\r\n\r\nDuis facilisi jugis magna meus rusticus torqueo. Ex minim nisl oppeto quae qui quis vulputate. Decet elit exerci ideo nulla roto suscipere valetudo validus.\r\n\r\nConsectetuer consequat dolore facilisi ideo lobortis praesent quidem ratis turpis. Aliquip commoveo ideo letalis paulatim. Appellatio at elit euismod eum hos macto nobis pneum volutpat. Esse laoreet velit. Capto commodo consectetuer feugiat modo natu olim pala valde vicis. Amet bene caecus dolor iaceo neque nutus refero rusticus. Esca ex fere imputo jus melior torqueo velit vulputate zelus.\r\n\r\nAdipiscing jus lobortis obruo. Ibidem inhibeo si. Abico aptent ideo volutpat. Abluo ex meus tamen tum verto. Dolore enim eros fere macto melior os paulatim si vel. Nibh odio oppeto utrum. Ideo neque nisl praemitto roto sit validus. Camur eligo incassum jumentum macto magna metuo quidne valetudo.\r\n\r\nAdipiscing dignissim esse gilvus interdico minim nulla premo tamen uxor. Aliquam brevitas secundum utinam. Dolus ea esse facilisis gravis laoreet mos usitas. Abdo dolor hendrerit ille iusto obruo. Abico autem dolor. Nisl quae virtus. At ea quia vereor vulpes.\r\n\r\nAd gravis in paratus saepius tincidunt ullamcorper utinam vulpes. Exputo quibus refoveo velit. Aliquip defui et gilvus iaceo imputo minim premo. Antehabeo comis consequat hendrerit. Acsi exputo melior neque ulciscor ut utinam utrum vel. Abdo eligo in jumentum lobortis mauris natu refoveo sit ut. Appellatio bene enim validus. Jus macto quibus vicis vulputate. Dignissim dolore metuo minim oppeto quae quidne.\r\n\r\nCapto conventio praesent vel vicis. Abluo humo laoreet praesent roto tation. Autem populus ullamcorper vel veniam. Ad adipiscing commodo gemino nutus si venio. Erat in sudo.\r\n\r\nAmet autem paratus vereor. Brevitas dolor eros nisl sagaciter valde. Capto dignissim importunus laoreet melior molior neque obruo vereor. Ad camur interdico pneum similis. Esse jumentum patria ut. Capto duis gilvus illum metuo nunc. Abico aliquam capto damnum neque nobis obruo saluto sit ut.\r\n\r\nJus nimis premo quidne refero voco. Augue conventio damnum ea huic ludus nisl. Accumsan eros mauris nulla pala proprius singularis. Abico autem bene fere genitus ille metuo tum. Esse huic imputo meus odio paratus premo veniam. Abico adipiscing comis consequat defui gemino inhibeo ratis velit vulputate. Blandit elit paratus quidem refoveo si. Abluo at dignissim eu lucidus rusticus sit suscipere valetudo verto.\r\n\r\nSaluto sino torqueo ut. Abluo acsi commoveo dolore ex neo nunc occuro saepius usitas. Abluo camur facilisis jus scisco. Gilvus importunus iustum natu oppeto sudo vicis. Blandit defui hendrerit qui sit. Amet hendrerit ille laoreet macto natu nibh valetudo zelus.\r\n\r\nDecet euismod iustum obruo os veniam. Aliquip commoveo elit ex praemitto tego vel. Adipiscing blandit camur et jugis macto modo similis uxor vel. Inhibeo letalis persto roto torqueo. Fere jumentum nunc occuro pala pecus vel ymo. Antehabeo eu refoveo utrum. Feugiat iustum paratus quae scisco tego vulputate.\r\n\r\nDecet exerci populus sed typicus uxor. Consectetuer distineo quae. Abdo caecus eros huic ullamcorper utinam voco vulputate. Aptent at decet rusticus sino. Damnum letalis quidne saluto. Aptent ille plaga refoveo scisco vulputate. Bene nimis nobis qui.\r\n\r\n",
+            "processed": "<p>In this post, we will delve into the crucial process of exporting configurations and content from a Drupal project. By following the steps outlined below, you&#039;ll be able to effectively transfer settings and data between different instances of your Drupal site.<\/p>\n<p>Exporting configurations and content is crucial in Drupal projects as it allows you to transfer settings and data between instances. Configuration export helps in replicating site structure, modules, and theme configurations, while content export enables you to migrate articles, pages, media files, and other site content seamlessly. By mastering these export processes, you ensure consistency and save time during site development.<\/p>\n<p>Before proceeding with the export process, ensure that you have the following prerequisites:<br \/>\n- A functional Drupal site set up and running.<br \/>\n- DDEV and Git installed on your local development environment.<br \/>\n- Familiarity with basic Drupal concepts and commands.<br \/>\n- You must have the default content extension installed and activated: ddev composer require drupal\/default_content_deploy<br \/>\n-Once the extension is activated, several configurations must be made, in our settings.php file in web\/sites\/default we must:<br \/>\n    - Configure the content directory by pasting the following commands at the end of the file:<br \/>\n      \/\/ Relative path:<br \/>\n     $settings[&#039;default_content_deploy_content_directory&#039;] = &#039;..\/content&#039;;<br \/>\n     \/\/ Absolute path:<br \/>\n    $settings[&#039;default_content_deploy_content_directory&#039;] = &#039;\/var\/dcd\/content&#039;;<\/p>\n<p>-Once this is done, go to our website and go to admin -&gt; configuration -&gt; developmetn -&gt; Default Content Deploythere we must place ..\/content inside the content directory box in the configuration section.<\/p>\n<p>Exporting Configurations<br \/>\nStarting DDEV and Updating Git<br \/>\nTo ensure a stable and up-to-date environment, follow these steps before exporting configurations:<br \/>\n1. Navigate to your project directory and start your DDEV environment using the command `ddev start`.<br \/>\n2. Update your Git repository by executing `git pull` to fetch the latest changes.<\/p>\n<p>Using the &quot;ddev exec drush cex&quot; Command<br \/>\nThe recommended method for exporting configurations in Drupal is to use the command `ddev exec drush cex`. Follow these steps:<br \/>\n1. Open your terminal or command prompt and navigate to your Drupal project directory.<br \/>\n2. Execute the command `ddev exec drush cex` to initiate the configuration export process.<br \/>\n3. Review the output for any warnings or errors that may require your attention.<br \/>\n4. Once the export process is complete, you&#039;ll find the exported configuration files in the designated location.<\/p>\n<p>Exporting Content<br \/>\nSubsection 4.1: Starting DDEV and Updating Git<br \/>\nBefore exporting content, ensure that your DDEV environment is running and your Git repository is up to date by following these steps:<br \/>\n1. Open your terminal or command prompt and navigate to your Drupal project directory.<br \/>\n2. Start your DDEV environment by running the command `ddev start`.<br \/>\n3. Update your Git repository by executing `git pull` to fetch the latest changes.<\/p>\n<p>Using the &quot;ddev drush dcde&quot; Command<br \/>\nTo export content from your Drupal project, use the `ddev drush dcde` command. Follow these steps:<br \/>\n1. In your terminal or command prompt, navigate to your Drupal project directory.<br \/>\n2. Execute the command `ddev drush dcde &lt;content_type&gt;` to initiate the content export process. Replace `&lt;content_type&gt;` with the desired content type, such as `node`, `block_content`, `taxonomy_term`, etc (consult the documention).<br \/>\n3. Monitor the output for any warnings or errors that may require your attention.<br \/>\n4. After the export process is complete, you&#039;ll find the exported content in the designated location.<\/p>\n<p>Conclusion<br \/>\nExporting configurations and content in Drupal is a vital skill for developers and site administrators. By following the step-by-step guide provided in this post, you can efficiently transfer settings and data between different instances of your Drupal site. Remember to start DDEV and update Git before exporting, ensuring a stable and up-to-date environment.<\/p>\n<p>Note: Ensure that the commands mentioned in this guide are compatible with your Drupal version and environment.<\/p>\n",
+            "summary": "",
             "lang": "en"
         }
     ],
     "field_comentarios": [
         {
-            "status": 1,
+            "status": 2,
             "cid": 0,
             "last_comment_timestamp": 1685915416,
             "last_comment_name": null,
@@ -265,13 +265,13 @@
     ],
     "field_re": [
         {
-            "uri": "http:\/\/www.noprajuclosluji.info",
-            "title": "",
+            "uri": "https:\/\/github.com\/HBFCrew\/default_content_deploy\/blob\/8.x-1.x\/README.md",
+            "title": "content export documentation",
             "options": []
         },
         {
-            "uri": "http:\/\/www.luprurowr.com",
-            "title": "Aliquam aliquip cui esca eu iaceo jumentum nulla pneum uxor.",
+            "uri": "internal:\/node\/22",
+            "title": "Importing Configurations and Content in Drupal",
             "options": []
         }
     ]

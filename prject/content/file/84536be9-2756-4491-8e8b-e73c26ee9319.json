@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/sites\/default\/files\/2023-06\/generateImage_e9d6Wz.png"
+            "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/sites\/default\/files\/2023-07\/druapl2.png"
         },
         "type": {
             "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/type\/file\/file"
@@ -14,12 +14,12 @@
     },
     "fid": [
         {
-            "value": 18
+            "value": 45
         }
     ],
     "uuid": [
         {
-            "value": "31b28e75-49bc-4a2e-96da-b270db828027"
+            "value": "84536be9-2756-4491-8e8b-e73c26ee9319"
         }
     ],
     "langcode": [
@@ -48,13 +48,13 @@
     },
     "filename": [
         {
-            "value": "generateImage_e9d6Wz.png"
+            "value": "druapl2.png"
         }
     ],
     "uri": [
         {
-            "value": "public:\/\/2023-06\/generateImage_e9d6Wz.png",
-            "url": "\/sites\/default\/files\/2023-06\/generateImage_e9d6Wz.png"
+            "value": "public:\/\/2023-07\/druapl2.png",
+            "url": "\/sites\/default\/files\/2023-07\/druapl2.png"
         }
     ],
     "filemime": [
@@ -64,7 +64,7 @@
     ],
     "filesize": [
         {
-            "value": 975
+            "value": 43059
         }
     ],
     "status": [
@@ -74,13 +74,13 @@
     ],
     "created": [
         {
-            "value": "2023-06-20T21:02:27+00:00",
+            "value": "2023-07-03T03:37:18+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2023-06-20T21:02:27+00:00",
+            "value": "2023-07-03T03:38:42+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]
