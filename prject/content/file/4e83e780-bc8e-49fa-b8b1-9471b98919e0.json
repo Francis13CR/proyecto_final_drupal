@@ -1,0 +1,87 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/sites\/default\/files\/2023-07\/drupal-field-collection.jpg"
+        },
+        "type": {
+            "href": "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/rest\/type\/file\/file"
+        },
+        "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/rest\/relation\/file\/file\/uid": [
+            {
+                "href": "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "fid": [
+        {
+            "value": 52
+        }
+    ],
+    "uuid": [
+        {
+            "value": "4e83e780-bc8e-49fa-b8b1-9471b98919e0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/rest\/relation\/file\/file\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "edf06e3e-7c0a-413f-94cd-50ada290bd07"
+                    }
+                ]
+            }
+        ]
+    },
+    "filename": [
+        {
+            "value": "drupal-field-collection.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2023-07\/drupal-field-collection.jpg",
+            "url": "\/sites\/default\/files\/2023-07\/drupal-field-collection.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 16372
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-07-03T22:55:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-07-03T22:55:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}
