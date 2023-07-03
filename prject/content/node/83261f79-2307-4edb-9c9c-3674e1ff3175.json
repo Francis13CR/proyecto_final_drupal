@@ -1,0 +1,283 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/node\/25?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/type\/node\/post"
+        },
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/relation\/node\/post\/revision_uid": [
+            {
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/user\/1?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/relation\/node\/post\/uid": [
+            {
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_category": [
+            {
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/taxonomy\/term\/13?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_image": [
+            {
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/sites\/default\/files\/2023-07\/OIP.jpeg",
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_keywords": [
+            {
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/taxonomy\/term\/20?_format=hal_json"
+            },
+            {
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/taxonomy\/term\/6?_format=hal_json"
+            },
+            {
+                "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/taxonomy\/term\/4?_format=hal_json"
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 25
+        }
+    ],
+    "uuid": [
+        {
+            "value": "83261f79-2307-4edb-9c9c-3674e1ff3175"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "post"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-07-03T03:55:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/relation\/node\/post\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "d085cd4a-ad80-4b3e-8cb1-a8bac4e4ed12"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/relation\/node\/post\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "d085cd4a-ad80-4b3e-8cb1-a8bac4e4ed12"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_category": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/taxonomy\/term\/13?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "26af8823-395d-42d1-9a03-69f314c24709"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_image": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/sites\/default\/files\/2023-07\/OIP.jpeg"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "0612d83f-26bc-4196-bd4f-f114d4257639"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_keywords": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/taxonomy\/term\/20?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "8465c947-e26f-4d2e-8892-f3d67c9584ad"
+                    }
+                ]
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/taxonomy\/term\/6?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "23d7d254-13bf-43b6-b25b-927d01c2aea5"
+                    }
+                ]
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/taxonomy\/term\/4?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-ekks5sbd1i6.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "69d544e4-3ca4-45a9-afe5-2f524e79a307"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Atomic Design: An Efficient Approach to Interface Building in Drupal",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-07-03T03:49:18+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-07-03T03:55:23+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><br>In this post, we will explore the concept of Atomic Design and how it can be applied to interface building in Drupal. Atomic Design is a methodology that provides a systematic way to design and develop interface components in a modular and reusable manner. We will learn the fundamental principles of Atomic Design and how it can enhance efficiency and consistency in interface development in Drupal.<\/p><p>What is Atomic Design?<br>Atomic Design is a design methodology that breaks down interfaces into smaller, reusable components. It consists of five levels: atoms, molecules, organisms, templates, and pages. Each level represents a different level of complexity and abstraction in the interface design and development process.<\/p><p>Benefits of Atomic Design in Drupal:<\/p><p>Improved efficiency in interface development in Drupal.<br>Encourages component reusability and visual consistency.<br>Facilitates collaboration between designers and developers.<br>The Five Levels of Atomic Design:<\/p><p>Atoms:<br>Atoms are the smallest building blocks of an interface. These include basic HTML elements like buttons, input fields, and icons. In Drupal, examples of atoms could be form fields, labels, or icons.<\/p><p>Molecules:<br>Molecules are combinations of atoms that form more complex components. They represent groups of atoms working together to fulfill a specific function. In Drupal, a molecule could be a search bar that consists of an input field and a submit button.<\/p><p>Organisms:<br>Organisms are complete, independent components that are made up of molecules and atoms. They represent reusable sections of the interface and can include elements like headers, footers, or navigation menus.<\/p><p>Templates:<br>Templates are the framework or structure that holds organisms together. They define the layout and composition of the interface by combining multiple organisms and determining their placement and hierarchy.<\/p><p>Pages:<br>Pages are the final output of the Atomic Design process. They are specific instances of templates with real content. Pages represent the actual screens or views that users interact with in your Drupal site.<\/p><p>Implementing Atomic Design in Drupal:<br>To implement Atomic Design in your Drupal workflow, follow these steps:<\/p><p>Analyze the interface and break it down into atomic components.<br>Create reusable atoms, molecules, and organisms using Drupal's theming system.<br>Build templates .twig &nbsp;in custom themesthat define the structure and layout of your interface.<br>Implement pages by combining templates and adding actual content.<br>Best Practices and Tips:<\/p><p>Maintain consistency in naming conventions for atoms, molecules, and organisms.<br>Use style guides and pattern libraries to document and manage your design system.<br>Encourage collaboration between designers and developers to ensure a cohesive implementation of Atomic Design.<\/p><p>Atomic Design provides a powerful methodology for building modular and reusable interfaces in Drupal. By following the principles of Atomic Design, you can enhance the efficiency, consistency, and scalability of your interface design and development projects in Drupal. Embrace Atomic Design and discover how it can elevate your skills in interface building within the Drupal ecosystem!<\/p>",
+            "format": "basic_html",
+            "processed": "<p><br \/>In this post, we will explore the concept of Atomic Design and how it can be applied to interface building in Drupal. Atomic Design is a methodology that provides a systematic way to design and develop interface components in a modular and reusable manner. We will learn the fundamental principles of Atomic Design and how it can enhance efficiency and consistency in interface development in Drupal.<\/p><p>What is Atomic Design?<br \/>Atomic Design is a design methodology that breaks down interfaces into smaller, reusable components. It consists of five levels: atoms, molecules, organisms, templates, and pages. Each level represents a different level of complexity and abstraction in the interface design and development process.<\/p><p>Benefits of Atomic Design in Drupal:<\/p><p>Improved efficiency in interface development in Drupal.<br \/>Encourages component reusability and visual consistency.<br \/>Facilitates collaboration between designers and developers.<br \/>The Five Levels of Atomic Design:<\/p><p>Atoms:<br \/>Atoms are the smallest building blocks of an interface. These include basic HTML elements like buttons, input fields, and icons. In Drupal, examples of atoms could be form fields, labels, or icons.<\/p><p>Molecules:<br \/>Molecules are combinations of atoms that form more complex components. They represent groups of atoms working together to fulfill a specific function. In Drupal, a molecule could be a search bar that consists of an input field and a submit button.<\/p><p>Organisms:<br \/>Organisms are complete, independent components that are made up of molecules and atoms. They represent reusable sections of the interface and can include elements like headers, footers, or navigation menus.<\/p><p>Templates:<br \/>Templates are the framework or structure that holds organisms together. They define the layout and composition of the interface by combining multiple organisms and determining their placement and hierarchy.<\/p><p>Pages:<br \/>Pages are the final output of the Atomic Design process. They are specific instances of templates with real content. Pages represent the actual screens or views that users interact with in your Drupal site.<\/p><p>Implementing Atomic Design in Drupal:<br \/>To implement Atomic Design in your Drupal workflow, follow these steps:<\/p><p>Analyze the interface and break it down into atomic components.<br \/>Create reusable atoms, molecules, and organisms using Drupal's theming system.<br \/>Build templates .twig \u00a0in custom themesthat define the structure and layout of your interface.<br \/>Implement pages by combining templates and adding actual content.<br \/>Best Practices and Tips:<\/p><p>Maintain consistency in naming conventions for atoms, molecules, and organisms.<br \/>Use style guides and pattern libraries to document and manage your design system.<br \/>Encourage collaboration between designers and developers to ensure a cohesive implementation of Atomic Design.<\/p><p>Atomic Design provides a powerful methodology for building modular and reusable interfaces in Drupal. By following the principles of Atomic Design, you can enhance the efficiency, consistency, and scalability of your interface design and development projects in Drupal. Embrace Atomic Design and discover how it can elevate your skills in interface building within the Drupal ecosystem!<\/p>",
+            "summary": "",
+            "lang": "en"
+        }
+    ],
+    "field_comentarios": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1688356461,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0
+        }
+    ],
+    "field_re": [
+        {
+            "uri": "internal:\/node\/24",
+            "title": "Atomic design explained by teacher Dharizza",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/atomicdesign.bradfrost.com\/table-of-contents\/",
+            "title": "Atomic Design by Brad Frost",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/evolvingweb.com\/blog\/speed-front-end-development-drupal-ui-patterns",
+            "title": "UI patterns by Jigar Mehta ",
+            "options": []
+        }
+    ]
+}
