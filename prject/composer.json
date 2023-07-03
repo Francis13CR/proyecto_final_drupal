@@ -23,6 +23,7 @@
         "composer/installers": "^2.0",
         "cweagans/composer-patches": "^1.7",
         "drupal/admin_toolbar": "^3.4",
+        "drupal/automatic_updates": "^2.7",
         "drupal/core-composer-scaffold": "^10.0",
         "drupal/core-project-message": "^10.0",
         "drupal/core-recommended": "^10.0",
@@ -49,7 +50,7 @@
             "phpstan/extension-installer": true,
             "dealerdirect/phpcodesniffer-composer-installer": true,
             "cweagans/composer-patches": false,
-            "oomphinc/composer-installers-extender": true
+            "oomphinc/composer-installers-extender": false
         },
         "sort-packages": true
     },
@@ -62,6 +63,7 @@
             "npm-asset"
         ], 
         "enable-patching": true,
+        "composer-exit-on-patch-failure": true,
         "patches": {
             "drupal/core": {
                 "Add startup configuration for PHP server": 
