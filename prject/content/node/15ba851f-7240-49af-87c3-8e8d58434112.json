@@ -1,0 +1,273 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/node\/31?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/type\/node\/post"
+        },
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/relation\/node\/post\/revision_uid": [
+            {
+                "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/user\/1?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/relation\/node\/post\/uid": [
+            {
+                "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_category": [
+            {
+                "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/taxonomy\/term\/27?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_image": [
+            {
+                "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/sites\/default\/files\/2023-07\/imagen_2023-07-03_154304445.png",
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_keywords": [
+            {
+                "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/taxonomy\/term\/20?_format=hal_json"
+            },
+            {
+                "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/taxonomy\/term\/2?_format=hal_json"
+            },
+            {
+                "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/taxonomy\/term\/30?_format=hal_json"
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 31
+        }
+    ],
+    "uuid": [
+        {
+            "value": "15ba851f-7240-49af-87c3-8e8d58434112"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "post"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-07-03T21:49:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/relation\/node\/post\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "3360b810-2e24-4a58-99a4-309c9249a160"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/relation\/node\/post\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "3360b810-2e24-4a58-99a4-309c9249a160"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_category": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/taxonomy\/term\/27?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "94f890c8-2826-4fb2-8d3a-b40c2e62a505"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_image": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/sites\/default\/files\/2023-07\/imagen_2023-07-03_154304445.png"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "58f6c361-c6a3-4901-b501-2dbd636942f0"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_keywords": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/taxonomy\/term\/20?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "e6b950b4-62d2-4a1c-a9c6-96e955ac190d"
+                    }
+                ]
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/taxonomy\/term\/2?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "23d7d254-13bf-43b6-b25b-927d01c2aea5"
+                    }
+                ]
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/taxonomy\/term\/30?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "d989a3e7-b6f1-4ffb-bf92-634f099754db"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Unveiling Pathauto: Fascinating Facts You Didn't Know",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-07-03T21:47:20+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-07-03T21:49:32+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Pathauto is a widely used module in Drupal and other CMS platforms that simplifies the process of generating user-friendly URLs for website content. While it may seem like a straightforward tool, there are some intriguing aspects and lesser-known facts about Pathauto that make it even more interesting. In this post, we will explore some curious tidbits about Pathauto that you might not be aware of.<\/p><ol><li>Behind the Scenes Magic: Pathauto works its magic by using tokens and patterns to automatically generate URLs based on the content's information. It seamlessly integrates with your CMS and saves you from the hassle of manually creating and managing URLs.<\/li><li>Customizable URL Patterns: Pathauto allows you to create custom URL patterns using tokens. Tokens are placeholders for dynamic information like the content title, taxonomy terms, or other relevant data. This flexibility enables you to design URL structures that align with your website's needs and branding.<\/li><li>Multilingual Support: If your website caters to a multilingual audience, Pathauto has you covered. It provides support for generating language-specific URLs, ensuring a consistent and localized user experience across different language versions of your content.<\/li><li>Aliases for Existing Content: With Pathauto, you can retroactively generate aliases for existing content. This means you don't have to worry about manually updating all your URLs if you decide to implement Pathauto after already having content on your website.<\/li><li>Bulk Alias Generation: In addition to automatically generating aliases for individual content items, Pathauto also offers bulk alias generation. This feature allows you to generate aliases for multiple pieces of content at once, saving you time and effort.<\/li><li>Fine-grained Control: Pathauto provides granular control over URL generation through its configuration settings. You can define rules based on content types, taxonomies, and other criteria to ensure consistent and logical URL structures throughout your website.<\/li><li>SEO Benefits: By creating descriptive and keyword-rich URLs, Pathauto contributes to search engine optimization (SEO). Search engines prefer easily readable URLs, and Pathauto helps you achieve that, potentially boosting your website's visibility and ranking.<\/li><\/ol><p>&nbsp;<\/p><p>Pathauto is not just a handy tool for generating user-friendly URLs; it also holds some fascinating features that can enhance your website's functionality and SEO. From custom URL patterns to multilingual support and bulk alias generation, Pathauto offers a range of capabilities to simplify URL management. Embrace Pathauto's power and unlock its potential for improving your website's user experience and search engine visibility.<\/p>",
+            "format": "basic_html",
+            "processed": "<p>Pathauto is a widely used module in Drupal and other CMS platforms that simplifies the process of generating user-friendly URLs for website content. While it may seem like a straightforward tool, there are some intriguing aspects and lesser-known facts about Pathauto that make it even more interesting. In this post, we will explore some curious tidbits about Pathauto that you might not be aware of.<\/p><ol><li>Behind the Scenes Magic: Pathauto works its magic by using tokens and patterns to automatically generate URLs based on the content's information. It seamlessly integrates with your CMS and saves you from the hassle of manually creating and managing URLs.<\/li><li>Customizable URL Patterns: Pathauto allows you to create custom URL patterns using tokens. Tokens are placeholders for dynamic information like the content title, taxonomy terms, or other relevant data. This flexibility enables you to design URL structures that align with your website's needs and branding.<\/li><li>Multilingual Support: If your website caters to a multilingual audience, Pathauto has you covered. It provides support for generating language-specific URLs, ensuring a consistent and localized user experience across different language versions of your content.<\/li><li>Aliases for Existing Content: With Pathauto, you can retroactively generate aliases for existing content. This means you don't have to worry about manually updating all your URLs if you decide to implement Pathauto after already having content on your website.<\/li><li>Bulk Alias Generation: In addition to automatically generating aliases for individual content items, Pathauto also offers bulk alias generation. This feature allows you to generate aliases for multiple pieces of content at once, saving you time and effort.<\/li><li>Fine-grained Control: Pathauto provides granular control over URL generation through its configuration settings. You can define rules based on content types, taxonomies, and other criteria to ensure consistent and logical URL structures throughout your website.<\/li><li>SEO Benefits: By creating descriptive and keyword-rich URLs, Pathauto contributes to search engine optimization (SEO). Search engines prefer easily readable URLs, and Pathauto helps you achieve that, potentially boosting your website's visibility and ranking.<\/li><\/ol><p>\u00a0<\/p><p>Pathauto is not just a handy tool for generating user-friendly URLs; it also holds some fascinating features that can enhance your website's functionality and SEO. From custom URL patterns to multilingual support and bulk alias generation, Pathauto offers a range of capabilities to simplify URL management. Embrace Pathauto's power and unlock its potential for improving your website's user experience and search engine visibility.<\/p>",
+            "summary": "",
+            "lang": "en"
+        }
+    ],
+    "field_comentarios": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1688420972,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0
+        }
+    ],
+    "field_re": [
+        {
+            "uri": "https:\/\/www.droptica.com\/blog\/how-control-url-addresses-drupal-pathauto-module-overview\/",
+            "title": "",
+            "options": []
+        }
+    ]
+}
