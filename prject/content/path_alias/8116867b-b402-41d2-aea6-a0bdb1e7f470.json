@@ -1,0 +1,40 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "https:\/\/8080-francis13cr-proyectofin-nll03ujvkb4.ws-us101.gitpod.io\/rest\/type\/path_alias\/path_alias"
+        }
+    },
+    "id": [
+        {
+            "value": 3
+        }
+    ],
+    "uuid": [
+        {
+            "value": "8116867b-b402-41d2-aea6-a0bdb1e7f470"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "zxx"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/taxonomy\/term\/5"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/amet-et-iustum-loquor-luptatum-pertineo-proprius-tincidunt-vulpes-wisi."
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
