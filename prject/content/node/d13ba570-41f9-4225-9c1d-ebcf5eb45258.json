@@ -1,31 +1,31 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/node\/36?_format=hal_json"
+            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/node\/34?_format=hal_json"
         },
         "type": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/rest\/type\/node\/video"
+            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/type\/node\/video"
         },
-        "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/rest\/relation\/node\/video\/revision_uid": [
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/relation\/node\/video\/revision_uid": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/user\/1?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/user\/0?_format=hal_json"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/rest\/relation\/node\/video\/uid": [
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/relation\/node\/video\/uid": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/user\/1?_format=hal_json",
+                "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/user\/0?_format=hal_json",
                 "lang": "en"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/rest\/relation\/node\/video\/field_video_category": [
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/relation\/node\/video\/field_video_category": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/accumsan-nulla-paulatim-secundum-ymo.?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/taxonomy\/term\/27?_format=hal_json"
             }
         ]
     },
     "nid": [
         {
-            "value": 36
+            "value": 34
         }
     ],
     "uuid": [
@@ -51,49 +51,49 @@
         }
     ],
     "_embedded": {
-        "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/rest\/relation\/node\/video\/revision_uid": [
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/relation\/node\/video\/revision_uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/user\/1?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/user\/0?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/rest\/type\/user\/user"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "edf06e3e-7c0a-413f-94cd-50ada290bd07"
+                        "value": "88b135ba-1b5e-4ca2-934b-ab8fb7724d7d"
                     }
                 ]
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/rest\/relation\/node\/video\/uid": [
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/relation\/node\/video\/uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/user\/1?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/user\/0?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/rest\/type\/user\/user"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "edf06e3e-7c0a-413f-94cd-50ada290bd07"
+                        "value": "88b135ba-1b5e-4ca2-934b-ab8fb7724d7d"
                     }
                 ],
                 "lang": "en"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/rest\/relation\/node\/video\/field_video_category": [
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/relation\/node\/video\/field_video_category": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/accumsan-nulla-paulatim-secundum-ymo.?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/taxonomy\/term\/27?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
                     }
                 },
                 "uuid": [

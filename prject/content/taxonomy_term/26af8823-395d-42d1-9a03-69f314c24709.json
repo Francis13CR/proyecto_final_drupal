@@ -1,18 +1,18 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/abluo-accumsan-aptent-cui-mauris-olim-paratus.?_format=hal_json"
+            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/abigo-accumsan-conventio-decet-hos-luptatum-quidem-tation-voco-volutpat.?_format=hal_json"
         },
         "type": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
+            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
         },
-        "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/rest\/relation\/taxonomy_term\/categoria\/parent": [
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/relation\/taxonomy_term\/categoria\/parent": [
             null
         ]
     },
     "tid": [
         {
-            "value": 3
+            "value": 7
         }
     ],
     "uuid": [
@@ -55,7 +55,7 @@
         }
     ],
     "_embedded": {
-        "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/rest\/relation\/taxonomy_term\/categoria\/parent": [
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/relation\/taxonomy_term\/categoria\/parent": [
             null
         ]
     },
@@ -80,8 +80,8 @@
     ],
     "path": [
         {
-            "alias": "\/abluo-accumsan-aptent-cui-mauris-olim-paratus.",
-            "pid": 2,
+            "alias": "\/abigo-accumsan-conventio-decet-hos-luptatum-quidem-tation-voco-volutpat.",
+            "pid": 4,
             "langcode": "und",
             "lang": "en"
         }

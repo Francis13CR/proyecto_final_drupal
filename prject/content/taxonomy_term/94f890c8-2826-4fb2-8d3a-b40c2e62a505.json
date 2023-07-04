@@ -1,18 +1,18 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/accumsan-nulla-paulatim-secundum-ymo.?_format=hal_json"
+            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/taxonomy\/term\/27?_format=hal_json"
         },
         "type": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
+            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
         },
-        "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/rest\/relation\/taxonomy_term\/categoria\/parent": [
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/relation\/taxonomy_term\/categoria\/parent": [
             null
         ]
     },
     "tid": [
         {
-            "value": 8
+            "value": 27
         }
     ],
     "uuid": [
@@ -55,7 +55,7 @@
         }
     ],
     "_embedded": {
-        "https:\/\/8080-francis13cr-proyectofin-d2bq43rpohx.ws-us101.gitpod.io\/rest\/relation\/taxonomy_term\/categoria\/parent": [
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/relation\/taxonomy_term\/categoria\/parent": [
             null
         ]
     },
@@ -80,8 +80,8 @@
     ],
     "path": [
         {
-            "alias": "\/accumsan-nulla-paulatim-secundum-ymo.",
-            "pid": 1,
+            "alias": null,
+            "pid": null,
             "langcode": "en",
             "lang": "en"
         }
