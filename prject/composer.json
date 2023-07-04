@@ -50,7 +50,7 @@
             "phpstan/extension-installer": true,
             "dealerdirect/phpcodesniffer-composer-installer": true,
             "cweagans/composer-patches": false,
-            "oomphinc/composer-installers-extender": false
+            "oomphinc/composer-installers-extender": true
         },
         "sort-packages": true
     },
@@ -63,7 +63,6 @@
             "npm-asset"
         ], 
         "enable-patching": true,
-        "composer-exit-on-patch-failure": true,
         "patches": {
             "drupal/core": {
                 "Add startup configuration for PHP server": 
