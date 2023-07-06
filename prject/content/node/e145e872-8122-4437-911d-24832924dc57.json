@@ -1,31 +1,31 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-nll03ujvkb4.ws-us101.gitpod.io\/node\/24?_format=hal_json"
+            "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/node\/4?_format=hal_json"
         },
         "type": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-nll03ujvkb4.ws-us101.gitpod.io\/rest\/type\/node\/video"
+            "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/type\/node\/video"
         },
-        "https:\/\/8080-francis13cr-proyectofin-nll03ujvkb4.ws-us101.gitpod.io\/rest\/relation\/node\/video\/revision_uid": [
+        "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/relation\/node\/video\/revision_uid": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-nll03ujvkb4.ws-us101.gitpod.io\/user\/0?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/user\/0?_format=hal_json"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-nll03ujvkb4.ws-us101.gitpod.io\/rest\/relation\/node\/video\/uid": [
+        "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/relation\/node\/video\/uid": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-nll03ujvkb4.ws-us101.gitpod.io\/user\/0?_format=hal_json",
+                "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/user\/0?_format=hal_json",
                 "lang": "en"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-nll03ujvkb4.ws-us101.gitpod.io\/rest\/relation\/node\/video\/field_video_category": [
+        "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/relation\/node\/video\/field_video_category": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-nll03ujvkb4.ws-us101.gitpod.io\/taxonomy\/term\/13?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/taxonomy\/term\/1?_format=hal_json"
             }
         ]
     },
     "nid": [
         {
-            "value": 24
+            "value": 4
         }
     ],
     "uuid": [
@@ -51,49 +51,49 @@
         }
     ],
     "_embedded": {
-        "https:\/\/8080-francis13cr-proyectofin-nll03ujvkb4.ws-us101.gitpod.io\/rest\/relation\/node\/video\/revision_uid": [
+        "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/relation\/node\/video\/revision_uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-nll03ujvkb4.ws-us101.gitpod.io\/user\/0?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/user\/0?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-nll03ujvkb4.ws-us101.gitpod.io\/rest\/type\/user\/user"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "f9c27890-9494-4272-a679-f855bd7f5703"
+                        "value": "72248bad-0852-4be3-afc5-13ff6f116cb8"
                     }
                 ]
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-nll03ujvkb4.ws-us101.gitpod.io\/rest\/relation\/node\/video\/uid": [
+        "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/relation\/node\/video\/uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-nll03ujvkb4.ws-us101.gitpod.io\/user\/0?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/user\/0?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-nll03ujvkb4.ws-us101.gitpod.io\/rest\/type\/user\/user"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "f9c27890-9494-4272-a679-f855bd7f5703"
+                        "value": "72248bad-0852-4be3-afc5-13ff6f116cb8"
                     }
                 ],
                 "lang": "en"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-nll03ujvkb4.ws-us101.gitpod.io\/rest\/relation\/node\/video\/field_video_category": [
+        "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/relation\/node\/video\/field_video_category": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-nll03ujvkb4.ws-us101.gitpod.io\/taxonomy\/term\/13?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/taxonomy\/term\/1?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-nll03ujvkb4.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
                     }
                 },
                 "uuid": [
@@ -112,7 +112,7 @@
     ],
     "title": [
         {
-            "value": "Repaso sobre UI Patterns",
+            "value": "UI Patterns ",
             "lang": "en"
         }
     ],
@@ -125,7 +125,7 @@
     ],
     "changed": [
         {
-            "value": "2023-06-26T01:50:11+00:00",
+            "value": "2023-07-06T23:03:53+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
@@ -164,9 +164,9 @@
     ],
     "body": [
         {
-            "value": "<p>Pellentesque pellentesque quis nisl ut pellentesque. Vestibulum porttitor suscipit augue non scelerisque. In tincidunt ex et sagittis hendrerit. Donec porta lacus in nibh convallis, quis eleifend turpis sollicitudin. Curabitur ornare neque tortor, quis dignissim nulla aliquam eget.<\/p>",
+            "value": "<p>Explained by the teacher in class<\/p>",
             "format": "basic_html",
-            "processed": "<p>Pellentesque pellentesque quis nisl ut pellentesque. Vestibulum porttitor suscipit augue non scelerisque. In tincidunt ex et sagittis hendrerit. Donec porta lacus in nibh convallis, quis eleifend turpis sollicitudin. Curabitur ornare neque tortor, quis dignissim nulla aliquam eget.<\/p>",
+            "processed": "<p>Explained by the teacher in class<\/p>",
             "summary": "",
             "lang": "en"
         }
