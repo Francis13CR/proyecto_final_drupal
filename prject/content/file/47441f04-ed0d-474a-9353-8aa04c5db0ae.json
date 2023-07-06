@@ -1,20 +1,15 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/sites\/default\/files\/inline-images\/Untitled.jpg"
+            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/sites\/default\/files\/inline-images\/Untitled.jpg"
         },
         "type": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/type\/file\/file"
-        },
-        "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/relation\/file\/file\/uid": [
-            {
-                "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/user\/1?_format=hal_json"
-            }
-        ]
+            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/type\/file\/file"
+        }
     },
     "fid": [
         {
-            "value": 16
+            "value": 11
         }
     ],
     "uuid": [
@@ -27,25 +22,6 @@
             "value": "en"
         }
     ],
-    "_embedded": {
-        "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/relation\/file\/file\/uid": [
-            {
-                "_links": {
-                    "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/user\/1?_format=hal_json"
-                    },
-                    "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/type\/user\/user"
-                    }
-                },
-                "uuid": [
-                    {
-                        "value": "8afca4db-50f6-4097-917f-988df6ad1040"
-                    }
-                ]
-            }
-        ]
-    },
     "filename": [
         {
             "value": "Untitled.jpg"

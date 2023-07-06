@@ -60,19 +60,19 @@
              {%
               set nodeId = column.content['#row']._entity.id()
              %}
-             {# obtenemos la ruta de ese nodo #}
+             {# get the path of that node #}
             {%
               set entityUrl = path('entity.node.canonical', {'node': nodeId})
             %}
-            {# obtener el body #}
+            {# get body #}
             {%
               set content = column.content['#row']._entity.body[0].value
             %}
-            {# obtener la pagina actual #}
+            {# get current page #}
             {%
               set currentPage = path('<current>')
             %}
-            {# mostrar solo las primeras 20 palabras #}
+            {# show only first 20 words #}
             {% set truncatedContent = content|split(' ')|slice(0, 20)|join(' ') %}
             {% if currentPage == '/node' or currentPage == '/posts' %}
               {# {{kint(column.content['#row']._entity.field_image[0].height)}} 

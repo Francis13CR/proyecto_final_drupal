@@ -1,0 +1,87 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/sites\/default\/files\/2023-07\/rubaitul-azad-CU2NF0Jz5pI-unsplash-1.jpg"
+        },
+        "type": {
+            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/type\/file\/file"
+        },
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/relation\/file\/file\/uid": [
+            {
+                "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/user\/2?_format=hal_json"
+            }
+        ]
+    },
+    "fid": [
+        {
+            "value": 48
+        }
+    ],
+    "uuid": [
+        {
+            "value": "2e575249-1c3f-4965-81a3-950e467da0fc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/relation\/file\/file\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/user\/2?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "5587a5ae-b9b3-44fc-bc59-389f448a175c"
+                    }
+                ]
+            }
+        ]
+    },
+    "filename": [
+        {
+            "value": "rubaitul-azad-CU2NF0Jz5pI-unsplash-1.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2023-07\/rubaitul-azad-CU2NF0Jz5pI-unsplash-1.jpg",
+            "url": "\/sites\/default\/files\/2023-07\/rubaitul-azad-CU2NF0Jz5pI-unsplash-1.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 61261
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-07-03T12:25:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-07-03T12:31:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

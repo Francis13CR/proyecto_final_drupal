@@ -1,0 +1,63 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/sites\/default\/files\/2023-07\/OIP.jpeg"
+        },
+        "type": {
+            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/type\/file\/file"
+        }
+    },
+    "fid": [
+        {
+            "value": 45
+        }
+    ],
+    "uuid": [
+        {
+            "value": "0612d83f-26bc-4196-bd4f-f114d4257639"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "filename": [
+        {
+            "value": "OIP.jpeg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2023-07\/OIP.jpeg",
+            "url": "\/sites\/default\/files\/2023-07\/OIP.jpeg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 12818
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-07-03T03:55:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-07-03T03:55:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

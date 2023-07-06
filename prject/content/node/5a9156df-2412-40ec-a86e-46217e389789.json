@@ -1,31 +1,31 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/node\/6?_format=hal_json"
+            "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/node\/18?_format=hal_json"
         },
         "type": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/type\/node\/video"
+            "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/type\/node\/video"
         },
-        "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/relation\/node\/video\/revision_uid": [
+        "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/relation\/node\/video\/revision_uid": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/user\/0?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/user\/0?_format=hal_json"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/relation\/node\/video\/uid": [
+        "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/relation\/node\/video\/uid": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/user\/0?_format=hal_json",
+                "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/user\/0?_format=hal_json",
                 "lang": "en"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/relation\/node\/video\/field_video_category": [
+        "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/relation\/node\/video\/field_video_category": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/taxonomy\/term\/11?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/taxonomy\/term\/1?_format=hal_json"
             }
         ]
     },
     "nid": [
         {
-            "value": 6
+            "value": 18
         }
     ],
     "uuid": [
@@ -51,54 +51,54 @@
         }
     ],
     "_embedded": {
-        "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/relation\/node\/video\/revision_uid": [
+        "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/relation\/node\/video\/revision_uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/user\/0?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/user\/0?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/type\/user\/user"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "832995ad-9b2a-4d8b-86c3-5bcbbc7aeaa8"
+                        "value": "72248bad-0852-4be3-afc5-13ff6f116cb8"
                     }
                 ]
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/relation\/node\/video\/uid": [
+        "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/relation\/node\/video\/uid": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/user\/0?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/user\/0?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/type\/user\/user"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "832995ad-9b2a-4d8b-86c3-5bcbbc7aeaa8"
+                        "value": "72248bad-0852-4be3-afc5-13ff6f116cb8"
                     }
                 ],
                 "lang": "en"
             }
         ],
-        "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/relation\/node\/video\/field_video_category": [
+        "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/relation\/node\/video\/field_video_category": [
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/taxonomy\/term\/11?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/taxonomy\/term\/1?_format=hal_json"
                     },
                     "type": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-sscwnjz0rse.ws-us100.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "808042cd-8419-4d73-bf8c-70e9cfa1a889"
+                        "value": "26af8823-395d-42d1-9a03-69f314c24709"
                     }
                 ]
             }
@@ -112,7 +112,7 @@
     ],
     "title": [
         {
-            "value": "PRIMER CONTACTO | AMNESIA: THE BUNKER Gameplay Espa\u00f1ol",
+            "value": "Introduction to Theming",
             "lang": "en"
         }
     ],
@@ -125,7 +125,7 @@
     ],
     "changed": [
         {
-            "value": "2023-06-21T03:50:35+00:00",
+            "value": "2023-07-06T23:02:54+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
@@ -162,18 +162,9 @@
             "lang": "en"
         }
     ],
-    "body": [
-        {
-            "value": "<p>Phasellus vel ligula sit amet ex commodo maximus. Pellentesque libero nisl, blandit sit amet interdum in, lacinia ut nulla. Ut nec risus egestas, efficitur nisi id, finibus odio.<\/p>",
-            "format": "basic_html",
-            "processed": "<p>Phasellus vel ligula sit amet ex commodo maximus. Pellentesque libero nisl, blandit sit amet interdum in, lacinia ut nulla. Ut nec risus egestas, efficitur nisi id, finibus odio.<\/p>",
-            "summary": "",
-            "lang": "en"
-        }
-    ],
     "field_video": [
         {
-            "value": "https:\/\/www.youtube.com\/watch?v=ImWmZjCTJGU"
+            "value": "https:\/\/youtu.be\/OWMyDQTx4D0"
         }
     ]
 }

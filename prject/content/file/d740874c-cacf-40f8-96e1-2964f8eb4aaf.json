@@ -1,0 +1,63 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/sites\/default\/files\/2023-07\/a2959d14ad418268c4ecf73fb183ab8f.png"
+        },
+        "type": {
+            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/type\/file\/file"
+        }
+    },
+    "fid": [
+        {
+            "value": 51
+        }
+    ],
+    "uuid": [
+        {
+            "value": "d740874c-cacf-40f8-96e1-2964f8eb4aaf"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "filename": [
+        {
+            "value": "a2959d14ad418268c4ecf73fb183ab8f.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2023-07\/a2959d14ad418268c4ecf73fb183ab8f.png",
+            "url": "\/sites\/default\/files\/2023-07\/a2959d14ad418268c4ecf73fb183ab8f.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 36443
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-07-03T04:14:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-07-03T04:14:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

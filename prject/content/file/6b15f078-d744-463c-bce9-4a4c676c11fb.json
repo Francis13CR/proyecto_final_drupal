@@ -1,0 +1,63 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/sites\/default\/files\/2023-07\/DS_logo_groot.png"
+        },
+        "type": {
+            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/type\/file\/file"
+        }
+    },
+    "fid": [
+        {
+            "value": 56
+        }
+    ],
+    "uuid": [
+        {
+            "value": "6b15f078-d744-463c-bce9-4a4c676c11fb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "filename": [
+        {
+            "value": "DS_logo_groot.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2023-07\/DS_logo_groot.png",
+            "url": "\/sites\/default\/files\/2023-07\/DS_logo_groot.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 19787
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-07-03T22:44:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-07-03T22:46:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

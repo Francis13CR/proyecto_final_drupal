@@ -1,0 +1,278 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/node\/17?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/type\/node\/post"
+        },
+        "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/relation\/node\/post\/revision_uid": [
+            {
+                "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/user\/3?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/relation\/node\/post\/uid": [
+            {
+                "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/user\/3?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_category": [
+            {
+                "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/taxonomy\/term\/2?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_image": [
+            {
+                "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/sites\/default\/files\/2023-07\/a2959d14ad418268c4ecf73fb183ab8f.png",
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_keywords": [
+            {
+                "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/amet-et-iustum-loquor-luptatum-pertineo-proprius-tincidunt-vulpes-wisi.?_format=hal_json"
+            },
+            {
+                "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/taxonomy\/term\/13?_format=hal_json"
+            },
+            {
+                "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/consectetuer-nimis-nobis-sed-ut-valde-vulputate.?_format=hal_json"
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 17
+        }
+    ],
+    "uuid": [
+        {
+            "value": "46173e22-c770-4faa-b670-78a440d25648"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "post"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-07-03T04:14:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/relation\/node\/post\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/user\/3?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "f9c27890-9494-4272-a679-f855bd7f5703"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/relation\/node\/post\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/user\/3?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "f9c27890-9494-4272-a679-f855bd7f5703"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_category": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/taxonomy\/term\/2?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "94f890c8-2826-4fb2-8d3a-b40c2e62a505"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_image": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/sites\/default\/files\/2023-07\/a2959d14ad418268c4ecf73fb183ab8f.png"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "d740874c-cacf-40f8-96e1-2964f8eb4aaf"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/relation\/node\/post\/field_keywords": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/amet-et-iustum-loquor-luptatum-pertineo-proprius-tincidunt-vulpes-wisi.?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "e6b950b4-62d2-4a1c-a9c6-96e955ac190d"
+                    }
+                ]
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/taxonomy\/term\/13?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "88e55705-85b1-442a-bdee-b3951ff55666"
+                    }
+                ]
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/consectetuer-nimis-nobis-sed-ut-valde-vulputate.?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/palabras_clave"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "23d7d254-13bf-43b6-b25b-927d01c2aea5"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Admin Toolbar: Simplify Navigation and Enhance Your Drupal Administration Experience",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-07-03T04:11:34+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-07-06T14:21:02+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><br>In this post, we will explore Admin Toolbar, a powerful extension for Drupal that improves navigation and enhances the administration experience on your Drupal site. We will walk you through the process of installing and configuring Admin Toolbar, highlighting its key features that allow you to quickly access commonly used functions and sections in the administration panel. Discover how Admin Toolbar can streamline your workflow and save time in managing your Drupal site.<\/p><p>What is Admin Toolbar?<br>Admin Toolbar is a Drupal extension that replaces the default administration toolbar with an enhanced navigation interface. It provides quick and easy access to different sections and functions of the administration panel, simplifying the experience for site administrators.<\/p><p>Installation and Configuration of Admin Toolbar:<br>To install Admin Toolbar on your Drupal site, follow these steps:<\/p><p>1. Open your terminal or command prompt.<br>2. Navigate to the root directory of your Drupal project.<br>3. Run the following command: ddev composer require drupal\/admin_toolbar<br>4. Wait for the installation process to complete.<br>5. Activate the admin toolbar from the site administration, for that go to the 'extend' section and in the 'list' section, click on 'add new module', select the module and press install<br>Features and Key Functionalities:<br>Admin Toolbar offers several useful features to enhance your Drupal administration experience:<\/p><p>1. Streamlined Navigation:<br>Admin Toolbar reorganizes the sections of the administration panel into an easily accessible menu. This allows you to navigate quickly through different areas of your site, such as content, structure, appearance, and configuration.<\/p><p>2. Dropdown Menus and Submenus:<br>Admin Toolbar uses dropdown menus to group related options into submenus. This reduces the need for repetitive navigation and enables you to quickly access specific functions you're looking for.<\/p><p>3. Quick Access to Common Functions:<br>Admin Toolbar provides shortcuts to common functions, such as adding content, managing users, and configuring modules. These essential functions are always at your fingertips, streamlining your workflow and improving productivity.<\/p><p>4. Responsive and Customizable Design:<br>Admin Toolbar is designed to be responsive and adaptable to different devices and screen sizes. Additionally, you can customize the appearance and layout of the toolbar to match your preferences and visual style.<\/p><p>Conclusion:<br>Admin Toolbar is an essential extension for simplifying navigation and enhancing the administration experience on your Drupal site. With its features and functionalities, Admin Toolbar allows you to quickly access commonly used sections and functions in the administration panel, saving you time and improving productivity. Install Admin Toolbar on your Drupal site and experience the difference it can make in your administrative workflow.<\/p><p>For more information, see the module's documentation<\/p>",
+            "format": "basic_html",
+            "processed": "<p><br \/>In this post, we will explore Admin Toolbar, a powerful extension for Drupal that improves navigation and enhances the administration experience on your Drupal site. We will walk you through the process of installing and configuring Admin Toolbar, highlighting its key features that allow you to quickly access commonly used functions and sections in the administration panel. Discover how Admin Toolbar can streamline your workflow and save time in managing your Drupal site.<\/p><p>What is Admin Toolbar?<br \/>Admin Toolbar is a Drupal extension that replaces the default administration toolbar with an enhanced navigation interface. It provides quick and easy access to different sections and functions of the administration panel, simplifying the experience for site administrators.<\/p><p>Installation and Configuration of Admin Toolbar:<br \/>To install Admin Toolbar on your Drupal site, follow these steps:<\/p><p>1. Open your terminal or command prompt.<br \/>2. Navigate to the root directory of your Drupal project.<br \/>3. Run the following command: ddev composer require drupal\/admin_toolbar<br \/>4. Wait for the installation process to complete.<br \/>5. Activate the admin toolbar from the site administration, for that go to the 'extend' section and in the 'list' section, click on 'add new module', select the module and press install<br \/>Features and Key Functionalities:<br \/>Admin Toolbar offers several useful features to enhance your Drupal administration experience:<\/p><p>1. Streamlined Navigation:<br \/>Admin Toolbar reorganizes the sections of the administration panel into an easily accessible menu. This allows you to navigate quickly through different areas of your site, such as content, structure, appearance, and configuration.<\/p><p>2. Dropdown Menus and Submenus:<br \/>Admin Toolbar uses dropdown menus to group related options into submenus. This reduces the need for repetitive navigation and enables you to quickly access specific functions you're looking for.<\/p><p>3. Quick Access to Common Functions:<br \/>Admin Toolbar provides shortcuts to common functions, such as adding content, managing users, and configuring modules. These essential functions are always at your fingertips, streamlining your workflow and improving productivity.<\/p><p>4. Responsive and Customizable Design:<br \/>Admin Toolbar is designed to be responsive and adaptable to different devices and screen sizes. Additionally, you can customize the appearance and layout of the toolbar to match your preferences and visual style.<\/p><p>Conclusion:<br \/>Admin Toolbar is an essential extension for simplifying navigation and enhancing the administration experience on your Drupal site. With its features and functionalities, Admin Toolbar allows you to quickly access commonly used sections and functions in the administration panel, saving you time and improving productivity. Install Admin Toolbar on your Drupal site and experience the difference it can make in your administrative workflow.<\/p><p>For more information, see the module's documentation<\/p>",
+            "summary": "",
+            "lang": "en"
+        }
+    ],
+    "field_comentarios": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1688431764,
+            "last_comment_name": null,
+            "last_comment_uid": 3,
+            "comment_count": 0
+        }
+    ],
+    "field_re": [
+        {
+            "uri": "https:\/\/www.drupal.org\/project\/admin_toolbar",
+            "title": "Admin toolbar documentarion",
+            "options": []
+        },
+        {
+            "uri": "internal:\/node\/26",
+            "title": "Admin toolbar by Francis",
+            "options": []
+        }
+    ]
+}
