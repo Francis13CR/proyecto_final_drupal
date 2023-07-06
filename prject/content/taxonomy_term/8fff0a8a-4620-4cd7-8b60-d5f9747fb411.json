@@ -1,18 +1,18 @@
 {
     "_links": {
         "self": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/taxonomy\/term\/1?_format=hal_json"
+            "href": "https:\/\/8080-francis13cr-proyectofin-nll03ujvkb4.ws-us101.gitpod.io\/taxonomy\/term\/23?_format=hal_json"
         },
         "type": {
-            "href": "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
+            "href": "https:\/\/8080-francis13cr-proyectofin-nll03ujvkb4.ws-us101.gitpod.io\/rest\/type\/taxonomy_term\/categoria"
         },
-        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/relation\/taxonomy_term\/categoria\/parent": [
+        "https:\/\/8080-francis13cr-proyectofin-nll03ujvkb4.ws-us101.gitpod.io\/rest\/relation\/taxonomy_term\/categoria\/parent": [
             null
         ]
     },
     "tid": [
         {
-            "value": 1
+            "value": 23
         }
     ],
     "uuid": [
@@ -55,7 +55,7 @@
         }
     ],
     "_embedded": {
-        "https:\/\/8080-francis13cr-proyectofin-7gg39c0j798.ws-us101.gitpod.io\/rest\/relation\/taxonomy_term\/categoria\/parent": [
+        "https:\/\/8080-francis13cr-proyectofin-nll03ujvkb4.ws-us101.gitpod.io\/rest\/relation\/taxonomy_term\/categoria\/parent": [
             null
         ]
     },
