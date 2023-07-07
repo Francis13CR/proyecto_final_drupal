@@ -8,7 +8,7 @@
         },
         "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/relation\/node\/post\/revision_uid": [
             {
-                "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/user\/3?_format=hal_json"
+                "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/user\/1?_format=hal_json"
             }
         ],
         "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/relation\/node\/post\/uid": [
@@ -63,7 +63,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2023-07-03T03:55:23+00:00",
+            "value": "2023-07-07T00:42:48+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -72,7 +72,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/user\/3?_format=hal_json"
+                        "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/user\/1?_format=hal_json"
                     },
                     "type": {
                         "href": "https:\/\/8080-francis13cr-proyectofin-h4qg2t6m79z.ws-us101.gitpod.io\/rest\/type\/user\/user"
@@ -80,7 +80,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "f9c27890-9494-4272-a679-f855bd7f5703"
+                        "value": "ff9d4896-ce4d-4c71-a8f1-26ea2b9a397a"
                     }
                 ]
             }
@@ -207,7 +207,7 @@
     ],
     "changed": [
         {
-            "value": "2023-07-06T14:21:02+00:00",
+            "value": "2023-07-07T00:42:48+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
@@ -265,7 +265,7 @@
     ],
     "field_re": [
         {
-            "uri": "internal:\/node\/24",
+            "uri": "internal:\/node\/1",
             "title": "Atomic design explained by teacher Dharizza",
             "options": []
         },
